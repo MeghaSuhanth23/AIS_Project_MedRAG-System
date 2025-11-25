@@ -1,0 +1,17 @@
+MEDICAL RAG VECTOR DATABASE
+
+
+Model: pritamdeka/S-PubMedBert-MS-MARCO
+Documents: 4488
+Embedding dimension: 768
+Index type: IndexFlatIP
+
+Specialty Distribution:
+  infectious_diseases: 706
+  pulmonology: 631
+  nephrology: 630
+  diabetes: 578
+  oncology: 550
+  neurology: 535
+  cardiology: 436
+  gastroenterology: 422

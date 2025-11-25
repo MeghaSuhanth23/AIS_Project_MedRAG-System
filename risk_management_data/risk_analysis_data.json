@@ -1,0 +1,41 @@
+{
+  "dataset_size": 4488,
+  "risks_identified": {
+    "data_quality": "HIGH",
+    "source_reliability": "LOW",
+    "data_currency": "LOW",
+    "data_bias": "MEDIUM",
+    "privacy_ethical": "LOW"
+  },
+  "risk_summary": {
+    "LOW": 3,
+    "MEDIUM": 1,
+    "HIGH": 1,
+    "CRITICAL": 0
+  },
+  "overall_risk_level": "MEDIUM",
+  "mitigations": {
+    "Data Quality": "Automated validation checks, duplicate removal",
+    "Data Currency": "Regular updates from PubMed, prioritize recent papers",
+    "Data Bias": "Balance specialty distribution, expand to more domains",
+    "Source Reliability": "Use only peer-reviewed sources from reputable journals",
+    "Privacy": "No patient data collected, only public abstracts used"
+  },
+  "details": {
+    "missing_values": 38,
+    "duplicates": 9,
+    "old_papers_count": 0,
+    "old_papers_percentage": 0.0,
+    "specialty_distribution": {
+      "infectious_diseases": 706,
+      "pulmonology": 631,
+      "nephrology": 630,
+      "diabetes": 578,
+      "oncology": 550,
+      "neurology": 535,
+      "cardiology": 436,
+      "gastroenterology": 422
+    },
+    "imbalance_ratio": 1.6729857819905214
+  }
+}

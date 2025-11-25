@@ -1,0 +1,11 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'medrag'
+    static_configs:
+      - targets: ['medrag:8000']
+        labels:
+          application: 'medrag'
+          environment: 'production'

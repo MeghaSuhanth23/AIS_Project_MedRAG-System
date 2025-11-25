@@ -1,0 +1,27 @@
+{
+  "dataset_size": 4488,
+  "trust_scores": {
+    "provenance": 100.0,
+    "completeness": 99.94429590017825,
+    "currency": 55.548128342245995,
+    "representativeness": 91.29879035491928,
+    "transparency": 100.0
+  },
+  "overall_trust_score": 89.35824291946871,
+  "trust_level": "GOOD",
+  "verifications": {
+    "Source Verification": "All PMIDs verified against PubMed database",
+    "Completeness Check": "Automated validation of required fields",
+    "Currency Assessment": "Publication date analysis and tracking",
+    "Balance Analysis": "Statistical distribution analysis across specialties",
+    "Transparency": "Full metadata and source documentation provided"
+  },
+  "details": {
+    "provenance_complete": true,
+    "avg_completeness": 99.94429590017825,
+    "recent_papers_count": 2493,
+    "recent_papers_percentage": 55.548128342245995,
+    "specialty_balance": 0.17402419290161436,
+    "representativeness_score": 91.29879035491928
+  }
+}

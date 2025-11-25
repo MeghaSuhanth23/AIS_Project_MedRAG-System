@@ -1,0 +1,34 @@
+{
+  "total_queries": 40,
+  "risks_identified": {
+    "query_safety": "LOW",
+    "answer_quality": "MEDIUM",
+    "citation_validity": "LOW",
+    "retrieval_failure": "LOW",
+    "system_errors": "LOW"
+  },
+  "risk_summary": {
+    "LOW": 4,
+    "MEDIUM": 1,
+    "HIGH": 0,
+    "CRITICAL": 0
+  },
+  "overall_risk_level": "LOW",
+  "mitigations": {
+    "Query Safety": "Query screening, emergency query detection, medical disclaimer",
+    "Answer Quality": "Enforce citation requirements, minimum answer length validation",
+    "Citation Validity": "Automated PMID verification against source documents",
+    "Retrieval Failure": "Similarity threshold filtering, fallback responses",
+    "System Errors": "Graceful error handling, fallback answer generation"
+  },
+  "details": {
+    "emergency_queries": 0,
+    "diagnostic_queries": 0,
+    "no_citation_count": 3,
+    "invalid_citations": 0,
+    "total_citations": 111,
+    "error_count": 0,
+    "blocked_count": 0,
+    "low_similarity_retrievals": 0
+  }
+}

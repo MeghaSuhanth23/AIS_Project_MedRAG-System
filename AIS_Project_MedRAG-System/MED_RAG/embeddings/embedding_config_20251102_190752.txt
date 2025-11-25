@@ -1,0 +1,15 @@
+MEDICAL RAG SYSTEM - EMBEDDING CONFIGURATION
+Generation Date: 2025-11-02 19:07:52
+Model Name: pritamdeka/S-PubMedBert-MS-MARCO
+Embedding Dimension: 768
+Number of Documents: 1954
+Batch Size: 64
+Normalization: True
+
+Dataset Statistics:
+  Total Articles: 1954
+  Specialties: 3
+  Specialty Distribution:
+    - infectious_diseases: 785 articles
+    - diabetes: 728 articles
+    - cardiology: 441 articles

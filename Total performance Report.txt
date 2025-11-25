@@ -1,0 +1,35 @@
+
+MEDICAL RAG SYSTEM - PERFORMANCE REPORT
+**************************************************
+Generated: 2025-11-22
+Queries Evaluated: 40
+
+AUTOMATED ACCURACY: 96.5%
+  Citation Accuracy: 100.0%
+  Answer Grounding: 92.5%
+  Response Quality: 90.0%
+  Retrieval Precision: 100.0%
+
+MANUAL ACCURACY: 80.0%
+  Queries Validated: 10
+
+RETRIEVAL: 100.0% success
+  Avg Similarity: 0.922 (Range: 0.888-0.948)
+  Avg Sources: 3.0
+
+CITATIONS: 92.5% coverage
+  Total: 111 (Valid: 111)
+  Avg per Answer: 2.77
+
+PERFORMANCE: 3.05s avg latency (GOOD)
+  Range: 2.66s - 3.48s
+  Throughput: 19.6 queries/min
+
+RELIABILITY: 100.0%
+  Successful: 40/40
+  Errors: 0, Blocked: 0
+
+ANSWER QUALITY:
+  Avg Length: 977 chars
+  High Quality: 36/40 (90.0%)
+

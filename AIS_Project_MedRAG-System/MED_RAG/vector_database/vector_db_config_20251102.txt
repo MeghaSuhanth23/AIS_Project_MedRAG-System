@@ -1,0 +1,12 @@
+MEDICAL RAG SYSTEM - VECTOR DATABASE CONFIGURATION
+Creation Date: 2025-11-02 19:34:12
+Index Type: IndexFlatIP
+Model Name: pritamdeka/S-PubMedBert-MS-MARCO
+Embedding Dimension: 768
+Number of Documents: 1954
+Vectors in Index: 1954
+
+Specialty Distribution:
+  - infectious_diseases: 785 documents
+  - diabetes: 728 documents
+  - cardiology: 441 documents

@@ -1,0 +1,44 @@
+services:
+  medrag:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    container_name: medrag_app
+    ports:
+      - "8501:8501"
+      - "8000:8000"
+    volumes:
+      - ../src:/app
+      - ../src/feedback.jsonl:/app/feedback.jsonl
+      - ../src/chat_history.json:/app/chat_history.json
+      - ../src/exported_chats:/app/exported_chats
+      - ../src/models/vector_database:/app/models/vector_database
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  medrag_prometheus:
+    image: prom/prometheus
+    container_name: medrag_prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ../monitoring/prometheus:/etc/prometheus
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: medrag_grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    depends_on:
+      - medrag_prometheus
+    restart: unless-stopped

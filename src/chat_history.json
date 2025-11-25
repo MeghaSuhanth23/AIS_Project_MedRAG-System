@@ -1,0 +1,1893 @@
+[
+  {
+    "timestamp": "2025-11-24 17:08:38",
+    "query": "What are COVID-19 symptoms?",
+    "answer": "Based on medical literature review: The COVID-19 pandemic has impacted the practicing gastroenterologist in several ways. Although majority of COVID-19 patients present with respiratory symptoms, gastrointestinal symptoms are also seen. [PMID: 33074995] The relationship between COVID-19 and diabetes mellitus is complicated and bidirectional. On the one hand, diabetes mellitus is considered one of the most important risk factors for a severe course of COVID-19. [PMID: 34220706] The 2019 coronavirus disease (COVID-19), an airborne infection caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has resulted in a global pandemic. SARS-CoV-2 relies on the angiotensin-converting enzyme 2 receptor for cellular entry and the abundance of this receptor in the gastrointestinal (GI) tract may help explain the GI manifestations, including dysgeusia, nausea, vomiting, diarrhea, and abdominal pain, present in over 40% of infected patients. [PMID: 34420001] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 33074995,
+        "title": "Coronavirus disease-2019: implications for the gastroenterologist.",
+        "abstract": "The COVID-19 pandemic has impacted the practicing gastroenterologist in several ways. Although majority of COVID-19 patients present with respiratory symptoms, gastrointestinal symptoms are also seen. COVID-19 has also disrupted gastrointestinal endoscopy services in numerous ways. There are also concerns regarding the impact of these changes on gastrointestinal cancer screening and management of chronic gastrointestinal diseases. The purpose of this review is to provide an overview of the implications of COVID-19 for the practicing gastroenterologist. COVID-19 patients can have gastrointestinal symptoms including diarrhea, nausea and vomiting, abdominal pain and anorexia. Separate from the management of COVID-19 patients, there has been a reduction in endoscopy volume worldwide. This has also resulted in reduction/cessation of in-person clinic visits and an increasing use of telemedicine services. In addition, patients with certain chronic diseases like chronic liver disease or inflammatory bowel disease may have worse outcomes during the COVID-19 pandemic. Gastroenterologists need to rapidly adapt to the challenges being faced and need to make both systems and practice-based changes to the endoscopy unit and outpatient clinic practices. Gastroenterologists should stay up-to-date with the rapidly evolving literature regarding gastrointestinal symptoms in COVID-19 patients as well as its impact on chronic gastrointestinal illnesses.",
+        "specialty": "gastroenterology",
+        "journal": "Current opinion in gastroenterology",
+        "publication_date": "2021-Jan",
+        "similarity_score": 0.9367830157279968
+      },
+      {
+        "rank": 2,
+        "pmid": 34220706,
+        "title": "COVID-19 and Diabetes: Understanding the Interrelationship and Risks for a Severe Course.",
+        "abstract": "The relationship between COVID-19 and diabetes mellitus is complicated and bidirectional. On the one hand, diabetes mellitus is considered one of the most important risk factors for a severe course of COVID-19. Several factors that are often present in diabetes mellitus are likely to contribute to this risk, such as older age, a proinflammatory and hypercoagulable state, hyperglycemia and underlying comorbidities (hypertension, cardiovascular disease, chronic kidney disease and obesity). On the other hand, a severe COVID-19 infection, and its treatment with steroids, can have a specific negative impact on diabetes itself, leading to worsening of hyperglycemia through increased insulin resistance and reduced \u03b2-cell secretory function. Worsening hyperglycemia can, in turn, adversely affect the course of COVID-19. Although more knowledge gradually surfaces as the pandemic progresses, challenges in understanding the interrelationship between COVID-19 and diabetes remain.",
+        "specialty": "diabetes",
+        "journal": "Frontiers in endocrinology",
+        "publication_date": "2021-",
+        "similarity_score": 0.93569016456604
+      },
+      {
+        "rank": 3,
+        "pmid": 34420001,
+        "title": "The Impact of COVID-19 in Gastroenterology and Hepatology.",
+        "abstract": "The 2019 coronavirus disease (COVID-19), an airborne infection caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has resulted in a global pandemic. SARS-CoV-2 relies on the angiotensin-converting enzyme 2 receptor for cellular entry and the abundance of this receptor in the gastrointestinal (GI) tract may help explain the GI manifestations, including dysgeusia, nausea, vomiting, diarrhea, and abdominal pain, present in over 40% of infected patients. GI tract involvement also raises the concern for oral-fecal transmission which is poorly understood. Outcome studies in COVID-19 patients with preexisting liver disease and inflammatory bowel disease show predominantly mild transaminase elevations and no increased risk from the use of biological agents in inflammatory bowel disease patients. High-dose corticosteroids, however, should be avoided. As endoscopic procedures are aerosol-generating, modifications to clinical practice is necessary to minimize the spread of COVID-19. We have reviewed current literature to describe the impact of COVID-19 in gastroenterology and hepatology as well as targets of future research.",
+        "specialty": "gastroenterology",
+        "journal": "Journal of clinical gastroenterology",
+        "publication_date": "2021-Oct",
+        "similarity_score": 0.9341690540313721
+      }
+    ],
+    "citations": {
+      "34420001": {
+        "pmid": "34420001",
+        "title": "The Impact of COVID-19 in Gastroenterology and Hepatology.",
+        "journal": "Journal of clinical gastroenterology",
+        "publication_date": "2021-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34420001/"
+      },
+      "33074995": {
+        "pmid": "33074995",
+        "title": "Coronavirus disease-2019: implications for the gastroenterologist.",
+        "journal": "Current opinion in gastroenterology",
+        "publication_date": "2021-Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33074995/"
+      },
+      "34220706": {
+        "pmid": "34220706",
+        "title": "COVID-19 and Diabetes: Understanding the Interrelationship and Risks for a Severe Course.",
+        "journal": "Frontiers in endocrinology",
+        "publication_date": "2021-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34220706/"
+      }
+    },
+    "confidence": 0.9367830157279968
+  },
+  {
+    "timestamp": "2025-11-24 17:08:54",
+    "query": "What causes heart disease?",
+    "answer": "Based on medical literature review: Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].. [PMID: 36291738] Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. [PMID: 30961498] In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. [PMID: 33219889] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36291738,
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "abstract": "Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].",
+        "specialty": "cardiology",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "similarity_score": 0.9203798770904541
+      },
+      {
+        "rank": 2,
+        "pmid": 30961498,
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. The purpose of this review is to summarize the different types of macrovascular complications associated with T2DM. A comprehensive review of the literature was performed to identify clinical studies, which determine the macrovascular complications associated with T2DM. Macrovascular complications of T2DM include coronary heart disease, cardiomyopathy, arrhythmias and sudden death, cerebrovascular disease and peripheral artery disease. Cardiovascular disease is the primary cause of death in diabetic patients. Many clinical studies have shown a connection between T2DM and vascular disease, but almost always other risk factors are present in diabetic patients, such as hypertension, obesity and dyslipidaemia. T2DM causes a variety of macrovascular complications through different pathogenetic pathways that include hyperglycaemia and insulin resistance. The association between T2DM and cardiovascular disease is clear, but we need more clinical studies in order to identify the pure effect of T2DM.",
+        "specialty": "diabetes",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "similarity_score": 0.9092370271682739
+      },
+      {
+        "rank": 3,
+        "pmid": 33219889,
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "abstract": "In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. We studied the peculiarities of expression of HSP60 in left ventricular cardiomyocytes in hypertension, insulin-dependent diabetes mellitus, and their combination. The experiment was performed on 38-week-old male Wistar-Kyoto and SHR (spontaneously hypertensive) rats aged 38-57 weeks. Insulin-dependent diabetes mellitus was modeled by a single parenteral administration of 65 mg/kg streptozotocin. Expression of HSP60 in left ventricular cardiomyocytes was evaluated by immunohistochemical methods. It was found that hypertension, diabetes mellitus, and their combination are associated with a significant decrease in the content of HSP60 in left ventricular cardiomyocytes in comparison with the control. This finding can be considered as a pathogenetic mechanism of myocardial damage induced by hypertension and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "similarity_score": 0.9086914658546448
+      }
+    ],
+    "citations": {
+      "30961498": {
+        "pmid": "30961498",
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30961498/"
+      },
+      "33219889": {
+        "pmid": "33219889",
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33219889/"
+      },
+      "36291738": {
+        "pmid": "36291738",
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36291738/"
+      }
+    },
+    "confidence": 0.9203798770904541
+  },
+  {
+    "timestamp": "2025-11-24 17:17:28",
+    "query": "What causes heart disease?",
+    "answer": "Based on medical literature review: Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].. [PMID: 36291738] Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. [PMID: 30961498] In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. [PMID: 33219889] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36291738,
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "abstract": "Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].",
+        "specialty": "cardiology",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "similarity_score": 0.9203798770904541
+      },
+      {
+        "rank": 2,
+        "pmid": 30961498,
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. The purpose of this review is to summarize the different types of macrovascular complications associated with T2DM. A comprehensive review of the literature was performed to identify clinical studies, which determine the macrovascular complications associated with T2DM. Macrovascular complications of T2DM include coronary heart disease, cardiomyopathy, arrhythmias and sudden death, cerebrovascular disease and peripheral artery disease. Cardiovascular disease is the primary cause of death in diabetic patients. Many clinical studies have shown a connection between T2DM and vascular disease, but almost always other risk factors are present in diabetic patients, such as hypertension, obesity and dyslipidaemia. T2DM causes a variety of macrovascular complications through different pathogenetic pathways that include hyperglycaemia and insulin resistance. The association between T2DM and cardiovascular disease is clear, but we need more clinical studies in order to identify the pure effect of T2DM.",
+        "specialty": "diabetes",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "similarity_score": 0.9092370271682739
+      },
+      {
+        "rank": 3,
+        "pmid": 33219889,
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "abstract": "In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. We studied the peculiarities of expression of HSP60 in left ventricular cardiomyocytes in hypertension, insulin-dependent diabetes mellitus, and their combination. The experiment was performed on 38-week-old male Wistar-Kyoto and SHR (spontaneously hypertensive) rats aged 38-57 weeks. Insulin-dependent diabetes mellitus was modeled by a single parenteral administration of 65 mg/kg streptozotocin. Expression of HSP60 in left ventricular cardiomyocytes was evaluated by immunohistochemical methods. It was found that hypertension, diabetes mellitus, and their combination are associated with a significant decrease in the content of HSP60 in left ventricular cardiomyocytes in comparison with the control. This finding can be considered as a pathogenetic mechanism of myocardial damage induced by hypertension and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "similarity_score": 0.9086914658546448
+      }
+    ],
+    "citations": {
+      "30961498": {
+        "pmid": "30961498",
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30961498/"
+      },
+      "36291738": {
+        "pmid": "36291738",
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36291738/"
+      },
+      "33219889": {
+        "pmid": "33219889",
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33219889/"
+      }
+    },
+    "confidence": 0.9203798770904541
+  },
+  {
+    "timestamp": "2025-11-24 18:07:01",
+    "query": "what is oncology?",
+    "answer": "Based on medical literature review: Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].. [PMID: 34898580] The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.. [PMID: 32078620] Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).. [PMID: 39068109] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34898580,
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "abstract": "Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "similarity_score": 0.9344657063484192
+      },
+      {
+        "rank": 2,
+        "pmid": 32078620,
+        "title": "The Oncology Nursing Specialty.",
+        "abstract": "The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.",
+        "specialty": "oncology",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "similarity_score": 0.9332033395767212
+      },
+      {
+        "rank": 3,
+        "pmid": 39068109,
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "abstract": "Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).",
+        "specialty": "oncology",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "similarity_score": 0.9310088157653809
+      }
+    ],
+    "citations": {
+      "32078620": {
+        "pmid": "32078620",
+        "title": "The Oncology Nursing Specialty.",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078620/"
+      },
+      "34898580": {
+        "pmid": "34898580",
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34898580/"
+      },
+      "39068109": {
+        "pmid": "39068109",
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39068109/"
+      }
+    },
+    "confidence": 0.9344657063484192
+  },
+  {
+    "timestamp": "2025-11-24 18:07:56",
+    "query": "what is oncology?",
+    "answer": "Based on medical literature review: Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].. [PMID: 34898580] The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.. [PMID: 32078620] Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).. [PMID: 39068109] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34898580,
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "abstract": "Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "similarity_score": 0.9344657063484192
+      },
+      {
+        "rank": 2,
+        "pmid": 32078620,
+        "title": "The Oncology Nursing Specialty.",
+        "abstract": "The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.",
+        "specialty": "oncology",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "similarity_score": 0.9332033395767212
+      },
+      {
+        "rank": 3,
+        "pmid": 39068109,
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "abstract": "Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).",
+        "specialty": "oncology",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "similarity_score": 0.9310088157653809
+      }
+    ],
+    "citations": {
+      "32078620": {
+        "pmid": "32078620",
+        "title": "The Oncology Nursing Specialty.",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078620/"
+      },
+      "34898580": {
+        "pmid": "34898580",
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34898580/"
+      },
+      "39068109": {
+        "pmid": "39068109",
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39068109/"
+      }
+    },
+    "confidence": 0.9344657063484192
+  },
+  {
+    "timestamp": "2025-11-24 18:20:25",
+    "query": "What causes heart disease?",
+    "answer": "Based on medical literature review: Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].. [PMID: 36291738] Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. [PMID: 30961498] In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. [PMID: 33219889] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36291738,
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "abstract": "Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].",
+        "specialty": "cardiology",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "similarity_score": 0.9203798770904541
+      },
+      {
+        "rank": 2,
+        "pmid": 30961498,
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. The purpose of this review is to summarize the different types of macrovascular complications associated with T2DM. A comprehensive review of the literature was performed to identify clinical studies, which determine the macrovascular complications associated with T2DM. Macrovascular complications of T2DM include coronary heart disease, cardiomyopathy, arrhythmias and sudden death, cerebrovascular disease and peripheral artery disease. Cardiovascular disease is the primary cause of death in diabetic patients. Many clinical studies have shown a connection between T2DM and vascular disease, but almost always other risk factors are present in diabetic patients, such as hypertension, obesity and dyslipidaemia. T2DM causes a variety of macrovascular complications through different pathogenetic pathways that include hyperglycaemia and insulin resistance. The association between T2DM and cardiovascular disease is clear, but we need more clinical studies in order to identify the pure effect of T2DM.",
+        "specialty": "diabetes",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "similarity_score": 0.9092370271682739
+      },
+      {
+        "rank": 3,
+        "pmid": 33219889,
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "abstract": "In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. We studied the peculiarities of expression of HSP60 in left ventricular cardiomyocytes in hypertension, insulin-dependent diabetes mellitus, and their combination. The experiment was performed on 38-week-old male Wistar-Kyoto and SHR (spontaneously hypertensive) rats aged 38-57 weeks. Insulin-dependent diabetes mellitus was modeled by a single parenteral administration of 65 mg/kg streptozotocin. Expression of HSP60 in left ventricular cardiomyocytes was evaluated by immunohistochemical methods. It was found that hypertension, diabetes mellitus, and their combination are associated with a significant decrease in the content of HSP60 in left ventricular cardiomyocytes in comparison with the control. This finding can be considered as a pathogenetic mechanism of myocardial damage induced by hypertension and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "similarity_score": 0.9086914658546448
+      }
+    ],
+    "citations": {
+      "33219889": {
+        "pmid": "33219889",
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33219889/"
+      },
+      "30961498": {
+        "pmid": "30961498",
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30961498/"
+      },
+      "36291738": {
+        "pmid": "36291738",
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36291738/"
+      }
+    },
+    "confidence": 0.9203798770904541
+  },
+  {
+    "timestamp": "2025-11-24 18:20:43",
+    "query": "What causes heart disease?",
+    "answer": "Based on medical literature review: Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].. [PMID: 36291738] Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. [PMID: 30961498] In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. [PMID: 33219889] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36291738,
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "abstract": "Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].",
+        "specialty": "cardiology",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "similarity_score": 0.9203798770904541
+      },
+      {
+        "rank": 2,
+        "pmid": 30961498,
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. The purpose of this review is to summarize the different types of macrovascular complications associated with T2DM. A comprehensive review of the literature was performed to identify clinical studies, which determine the macrovascular complications associated with T2DM. Macrovascular complications of T2DM include coronary heart disease, cardiomyopathy, arrhythmias and sudden death, cerebrovascular disease and peripheral artery disease. Cardiovascular disease is the primary cause of death in diabetic patients. Many clinical studies have shown a connection between T2DM and vascular disease, but almost always other risk factors are present in diabetic patients, such as hypertension, obesity and dyslipidaemia. T2DM causes a variety of macrovascular complications through different pathogenetic pathways that include hyperglycaemia and insulin resistance. The association between T2DM and cardiovascular disease is clear, but we need more clinical studies in order to identify the pure effect of T2DM.",
+        "specialty": "diabetes",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "similarity_score": 0.9092370271682739
+      },
+      {
+        "rank": 3,
+        "pmid": 33219889,
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "abstract": "In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. We studied the peculiarities of expression of HSP60 in left ventricular cardiomyocytes in hypertension, insulin-dependent diabetes mellitus, and their combination. The experiment was performed on 38-week-old male Wistar-Kyoto and SHR (spontaneously hypertensive) rats aged 38-57 weeks. Insulin-dependent diabetes mellitus was modeled by a single parenteral administration of 65 mg/kg streptozotocin. Expression of HSP60 in left ventricular cardiomyocytes was evaluated by immunohistochemical methods. It was found that hypertension, diabetes mellitus, and their combination are associated with a significant decrease in the content of HSP60 in left ventricular cardiomyocytes in comparison with the control. This finding can be considered as a pathogenetic mechanism of myocardial damage induced by hypertension and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "similarity_score": 0.9086914658546448
+      }
+    ],
+    "citations": {
+      "33219889": {
+        "pmid": "33219889",
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33219889/"
+      },
+      "30961498": {
+        "pmid": "30961498",
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30961498/"
+      },
+      "36291738": {
+        "pmid": "36291738",
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36291738/"
+      }
+    },
+    "confidence": 0.9203798770904541
+  },
+  {
+    "timestamp": "2025-11-24 19:10:21",
+    "query": "What causes heart disease?",
+    "answer": "Based on medical literature review: Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].. [PMID: 36291738] Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. [PMID: 30961498] In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. [PMID: 33219889] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36291738,
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "abstract": "Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].",
+        "specialty": "cardiology",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "similarity_score": 0.9203798770904541
+      },
+      {
+        "rank": 2,
+        "pmid": 30961498,
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. The purpose of this review is to summarize the different types of macrovascular complications associated with T2DM. A comprehensive review of the literature was performed to identify clinical studies, which determine the macrovascular complications associated with T2DM. Macrovascular complications of T2DM include coronary heart disease, cardiomyopathy, arrhythmias and sudden death, cerebrovascular disease and peripheral artery disease. Cardiovascular disease is the primary cause of death in diabetic patients. Many clinical studies have shown a connection between T2DM and vascular disease, but almost always other risk factors are present in diabetic patients, such as hypertension, obesity and dyslipidaemia. T2DM causes a variety of macrovascular complications through different pathogenetic pathways that include hyperglycaemia and insulin resistance. The association between T2DM and cardiovascular disease is clear, but we need more clinical studies in order to identify the pure effect of T2DM.",
+        "specialty": "diabetes",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "similarity_score": 0.9092370271682739
+      },
+      {
+        "rank": 3,
+        "pmid": 33219889,
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "abstract": "In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. We studied the peculiarities of expression of HSP60 in left ventricular cardiomyocytes in hypertension, insulin-dependent diabetes mellitus, and their combination. The experiment was performed on 38-week-old male Wistar-Kyoto and SHR (spontaneously hypertensive) rats aged 38-57 weeks. Insulin-dependent diabetes mellitus was modeled by a single parenteral administration of 65 mg/kg streptozotocin. Expression of HSP60 in left ventricular cardiomyocytes was evaluated by immunohistochemical methods. It was found that hypertension, diabetes mellitus, and their combination are associated with a significant decrease in the content of HSP60 in left ventricular cardiomyocytes in comparison with the control. This finding can be considered as a pathogenetic mechanism of myocardial damage induced by hypertension and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "similarity_score": 0.9086914658546448
+      }
+    ],
+    "citations": {
+      "30961498": {
+        "pmid": "30961498",
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30961498/"
+      },
+      "33219889": {
+        "pmid": "33219889",
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33219889/"
+      },
+      "36291738": {
+        "pmid": "36291738",
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36291738/"
+      }
+    },
+    "confidence": 0.9203798770904541
+  },
+  {
+    "timestamp": "2025-11-24 19:13:40",
+    "query": "How is stroke treated?",
+    "answer": "Based on medical literature review: To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. [PMID: 34238528] To update the Spanish Society of Neurology's guidelines for stroke prevention in patients with type 2 diabetes or prediabetes, analysing the available evidence on the effect of metabolic control and the potential benefit of antidiabetic drugs with known vascular benefits in addition to conventional antidiabetic treatments in stroke prevention. PICO-type questions (Patient, Intervention, Comparison, Outcome) were developed to identify practical issues in the management of stroke patients and to establish specific recommendations for each of them. [PMID: 32981775] The article summarizes the training pathways and vocational opportunities within the field of vascular neurology. It highlights the groundbreaking clinical trials that transformed acute stroke care and the resultant increased demand for readily available vascular neurology expertise. [PMID: 38937039] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34238528,
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "abstract": "To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. We conducted a systematic review of the PubMed database and analysed the main clinical trials to address these questions and establish a series of recommendations. In primary stroke prevention, antihypertensive treatment should be started in patients with BP levels\u202f>\u202f 140/90\u202fmmHg, with a target BP of < 130/80\u202fmmHg. In secondary stroke prevention, we recommend starting antihypertensive treatment after the acute phase (first 24\u202fhours), with a target BP of < 130/80\u202fmmHg. The use of angiotensin-II receptor antagonists or diuretics alone or in combination with angiotensin-converting enzyme inhibitors is preferable.",
+        "specialty": "neurology",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "similarity_score": 0.9164835214614868
+      },
+      {
+        "rank": 2,
+        "pmid": 32981775,
+        "title": "Stroke prevention in patients with type 2 diabetes or prediabetes. Recommendations from the Cerebrovascular Diseases Study Group, Spanish Society of Neurology.",
+        "abstract": "To update the Spanish Society of Neurology's guidelines for stroke prevention in patients with type 2 diabetes or prediabetes, analysing the available evidence on the effect of metabolic control and the potential benefit of antidiabetic drugs with known vascular benefits in addition to conventional antidiabetic treatments in stroke prevention. PICO-type questions (Patient, Intervention, Comparison, Outcome) were developed to identify practical issues in the management of stroke patients and to establish specific recommendations for each of them. Subsequently, we conducted systematic reviews of the PubMed database and selected those randomised clinical trials evaluating stroke as an independent variable (primary or secondary). Finally, for each of the PICO questions we developed a meta-analysis to support the final recommendations. While there is no evidence that metabolic control reduces the risk of stroke, some families of antidiabetic drugs with vascular benefits have been shown to reduce these effects when added to conventional treatments, both in the field of primary prevention in patients presenting type 2 diabetes and high vascular risk or established atherosclerosis (GLP-1 agonists) and in secondary stroke prevention in patients with type 2 diabetes or prediabetes (pioglitazone).",
+        "specialty": "neurology",
+        "journal": "Neurologia",
+        "publication_date": "2021-May",
+        "similarity_score": 0.9094456434249878
+      },
+      {
+        "rank": 3,
+        "pmid": 38937039,
+        "title": "The Role of the Vascular Neurologist in Optimizing Stroke Care.",
+        "abstract": "The article summarizes the training pathways and vocational opportunities within the field of vascular neurology. It highlights the groundbreaking clinical trials that transformed acute stroke care and the resultant increased demand for readily available vascular neurology expertise. The article emphasizes the need to train a larger number of diverse physicians in the subspecialty and the role of vascular neurologists in improving outcomes across demographic and geographic lines.",
+        "specialty": "neurology",
+        "journal": "Neurologic clinics",
+        "publication_date": "2024-Aug",
+        "similarity_score": 0.9094443917274475
+      }
+    ],
+    "citations": {
+      "34238528": {
+        "pmid": "34238528",
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34238528/"
+      },
+      "38937039": {
+        "pmid": "38937039",
+        "title": "The Role of the Vascular Neurologist in Optimizing Stroke Care.",
+        "journal": "Neurologic clinics",
+        "publication_date": "2024-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38937039/"
+      },
+      "32981775": {
+        "pmid": "32981775",
+        "title": "Stroke prevention in patients with type 2 diabetes or prediabetes. Recommendations from the Cerebrovascular Diseases Study Group, Spanish Society of Neurology.",
+        "journal": "Neurologia",
+        "publication_date": "2021-May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32981775/"
+      }
+    },
+    "confidence": 0.9164835214614868
+  },
+  {
+    "timestamp": "2025-11-24 19:18:01",
+    "query": "How is stroke treated?",
+    "answer": "Based on medical literature review: To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. [PMID: 34238528] To update the Spanish Society of Neurology's guidelines for stroke prevention in patients with type 2 diabetes or prediabetes, analysing the available evidence on the effect of metabolic control and the potential benefit of antidiabetic drugs with known vascular benefits in addition to conventional antidiabetic treatments in stroke prevention. PICO-type questions (Patient, Intervention, Comparison, Outcome) were developed to identify practical issues in the management of stroke patients and to establish specific recommendations for each of them. [PMID: 32981775] The article summarizes the training pathways and vocational opportunities within the field of vascular neurology. It highlights the groundbreaking clinical trials that transformed acute stroke care and the resultant increased demand for readily available vascular neurology expertise. [PMID: 38937039] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34238528,
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "abstract": "To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. We conducted a systematic review of the PubMed database and analysed the main clinical trials to address these questions and establish a series of recommendations. In primary stroke prevention, antihypertensive treatment should be started in patients with BP levels\u202f>\u202f 140/90\u202fmmHg, with a target BP of < 130/80\u202fmmHg. In secondary stroke prevention, we recommend starting antihypertensive treatment after the acute phase (first 24\u202fhours), with a target BP of < 130/80\u202fmmHg. The use of angiotensin-II receptor antagonists or diuretics alone or in combination with angiotensin-converting enzyme inhibitors is preferable.",
+        "specialty": "neurology",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "similarity_score": 0.9164835214614868
+      },
+      {
+        "rank": 2,
+        "pmid": 32981775,
+        "title": "Stroke prevention in patients with type 2 diabetes or prediabetes. Recommendations from the Cerebrovascular Diseases Study Group, Spanish Society of Neurology.",
+        "abstract": "To update the Spanish Society of Neurology's guidelines for stroke prevention in patients with type 2 diabetes or prediabetes, analysing the available evidence on the effect of metabolic control and the potential benefit of antidiabetic drugs with known vascular benefits in addition to conventional antidiabetic treatments in stroke prevention. PICO-type questions (Patient, Intervention, Comparison, Outcome) were developed to identify practical issues in the management of stroke patients and to establish specific recommendations for each of them. Subsequently, we conducted systematic reviews of the PubMed database and selected those randomised clinical trials evaluating stroke as an independent variable (primary or secondary). Finally, for each of the PICO questions we developed a meta-analysis to support the final recommendations. While there is no evidence that metabolic control reduces the risk of stroke, some families of antidiabetic drugs with vascular benefits have been shown to reduce these effects when added to conventional treatments, both in the field of primary prevention in patients presenting type 2 diabetes and high vascular risk or established atherosclerosis (GLP-1 agonists) and in secondary stroke prevention in patients with type 2 diabetes or prediabetes (pioglitazone).",
+        "specialty": "neurology",
+        "journal": "Neurologia",
+        "publication_date": "2021-May",
+        "similarity_score": 0.9094456434249878
+      },
+      {
+        "rank": 3,
+        "pmid": 38937039,
+        "title": "The Role of the Vascular Neurologist in Optimizing Stroke Care.",
+        "abstract": "The article summarizes the training pathways and vocational opportunities within the field of vascular neurology. It highlights the groundbreaking clinical trials that transformed acute stroke care and the resultant increased demand for readily available vascular neurology expertise. The article emphasizes the need to train a larger number of diverse physicians in the subspecialty and the role of vascular neurologists in improving outcomes across demographic and geographic lines.",
+        "specialty": "neurology",
+        "journal": "Neurologic clinics",
+        "publication_date": "2024-Aug",
+        "similarity_score": 0.9094443917274475
+      }
+    ],
+    "citations": {
+      "34238528": {
+        "pmid": "34238528",
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34238528/"
+      },
+      "38937039": {
+        "pmid": "38937039",
+        "title": "The Role of the Vascular Neurologist in Optimizing Stroke Care.",
+        "journal": "Neurologic clinics",
+        "publication_date": "2024-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38937039/"
+      },
+      "32981775": {
+        "pmid": "32981775",
+        "title": "Stroke prevention in patients with type 2 diabetes or prediabetes. Recommendations from the Cerebrovascular Diseases Study Group, Spanish Society of Neurology.",
+        "journal": "Neurologia",
+        "publication_date": "2021-May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32981775/"
+      }
+    },
+    "confidence": 0.9164835214614868
+  },
+  {
+    "timestamp": "2025-11-24 21:16:33",
+    "query": "What causes heart disease?",
+    "answer": "Based on medical literature review: Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].. [PMID: 36291738] Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. [PMID: 30961498] In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. [PMID: 33219889] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36291738,
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "abstract": "Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].",
+        "specialty": "cardiology",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "similarity_score": 0.9203798770904541
+      },
+      {
+        "rank": 2,
+        "pmid": 30961498,
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. The purpose of this review is to summarize the different types of macrovascular complications associated with T2DM. A comprehensive review of the literature was performed to identify clinical studies, which determine the macrovascular complications associated with T2DM. Macrovascular complications of T2DM include coronary heart disease, cardiomyopathy, arrhythmias and sudden death, cerebrovascular disease and peripheral artery disease. Cardiovascular disease is the primary cause of death in diabetic patients. Many clinical studies have shown a connection between T2DM and vascular disease, but almost always other risk factors are present in diabetic patients, such as hypertension, obesity and dyslipidaemia. T2DM causes a variety of macrovascular complications through different pathogenetic pathways that include hyperglycaemia and insulin resistance. The association between T2DM and cardiovascular disease is clear, but we need more clinical studies in order to identify the pure effect of T2DM.",
+        "specialty": "diabetes",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "similarity_score": 0.9092370271682739
+      },
+      {
+        "rank": 3,
+        "pmid": 33219889,
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "abstract": "In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. We studied the peculiarities of expression of HSP60 in left ventricular cardiomyocytes in hypertension, insulin-dependent diabetes mellitus, and their combination. The experiment was performed on 38-week-old male Wistar-Kyoto and SHR (spontaneously hypertensive) rats aged 38-57 weeks. Insulin-dependent diabetes mellitus was modeled by a single parenteral administration of 65 mg/kg streptozotocin. Expression of HSP60 in left ventricular cardiomyocytes was evaluated by immunohistochemical methods. It was found that hypertension, diabetes mellitus, and their combination are associated with a significant decrease in the content of HSP60 in left ventricular cardiomyocytes in comparison with the control. This finding can be considered as a pathogenetic mechanism of myocardial damage induced by hypertension and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "similarity_score": 0.9086914658546448
+      }
+    ],
+    "citations": {
+      "36291738": {
+        "pmid": "36291738",
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36291738/"
+      },
+      "30961498": {
+        "pmid": "30961498",
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30961498/"
+      },
+      "33219889": {
+        "pmid": "33219889",
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33219889/"
+      }
+    },
+    "confidence": 0.9203798770904541
+  },
+  {
+    "timestamp": "2025-11-24 23:27:33",
+    "query": "How is stroke treated?",
+    "answer": "Based on medical literature review: To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. [PMID: 34238528] To update the Spanish Society of Neurology's guidelines for stroke prevention in patients with type 2 diabetes or prediabetes, analysing the available evidence on the effect of metabolic control and the potential benefit of antidiabetic drugs with known vascular benefits in addition to conventional antidiabetic treatments in stroke prevention. PICO-type questions (Patient, Intervention, Comparison, Outcome) were developed to identify practical issues in the management of stroke patients and to establish specific recommendations for each of them. [PMID: 32981775] The article summarizes the training pathways and vocational opportunities within the field of vascular neurology. It highlights the groundbreaking clinical trials that transformed acute stroke care and the resultant increased demand for readily available vascular neurology expertise. [PMID: 38937039] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34238528,
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "abstract": "To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. We conducted a systematic review of the PubMed database and analysed the main clinical trials to address these questions and establish a series of recommendations. In primary stroke prevention, antihypertensive treatment should be started in patients with BP levels\u202f>\u202f 140/90\u202fmmHg, with a target BP of < 130/80\u202fmmHg. In secondary stroke prevention, we recommend starting antihypertensive treatment after the acute phase (first 24\u202fhours), with a target BP of < 130/80\u202fmmHg. The use of angiotensin-II receptor antagonists or diuretics alone or in combination with angiotensin-converting enzyme inhibitors is preferable.",
+        "specialty": "neurology",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "similarity_score": 0.9164835214614868
+      },
+      {
+        "rank": 2,
+        "pmid": 32981775,
+        "title": "Stroke prevention in patients with type 2 diabetes or prediabetes. Recommendations from the Cerebrovascular Diseases Study Group, Spanish Society of Neurology.",
+        "abstract": "To update the Spanish Society of Neurology's guidelines for stroke prevention in patients with type 2 diabetes or prediabetes, analysing the available evidence on the effect of metabolic control and the potential benefit of antidiabetic drugs with known vascular benefits in addition to conventional antidiabetic treatments in stroke prevention. PICO-type questions (Patient, Intervention, Comparison, Outcome) were developed to identify practical issues in the management of stroke patients and to establish specific recommendations for each of them. Subsequently, we conducted systematic reviews of the PubMed database and selected those randomised clinical trials evaluating stroke as an independent variable (primary or secondary). Finally, for each of the PICO questions we developed a meta-analysis to support the final recommendations. While there is no evidence that metabolic control reduces the risk of stroke, some families of antidiabetic drugs with vascular benefits have been shown to reduce these effects when added to conventional treatments, both in the field of primary prevention in patients presenting type 2 diabetes and high vascular risk or established atherosclerosis (GLP-1 agonists) and in secondary stroke prevention in patients with type 2 diabetes or prediabetes (pioglitazone).",
+        "specialty": "neurology",
+        "journal": "Neurologia",
+        "publication_date": "2021-May",
+        "similarity_score": 0.9094456434249878
+      },
+      {
+        "rank": 3,
+        "pmid": 38937039,
+        "title": "The Role of the Vascular Neurologist in Optimizing Stroke Care.",
+        "abstract": "The article summarizes the training pathways and vocational opportunities within the field of vascular neurology. It highlights the groundbreaking clinical trials that transformed acute stroke care and the resultant increased demand for readily available vascular neurology expertise. The article emphasizes the need to train a larger number of diverse physicians in the subspecialty and the role of vascular neurologists in improving outcomes across demographic and geographic lines.",
+        "specialty": "neurology",
+        "journal": "Neurologic clinics",
+        "publication_date": "2024-Aug",
+        "similarity_score": 0.9094443917274475
+      }
+    ],
+    "citations": {
+      "38937039": {
+        "pmid": "38937039",
+        "title": "The Role of the Vascular Neurologist in Optimizing Stroke Care.",
+        "journal": "Neurologic clinics",
+        "publication_date": "2024-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38937039/"
+      },
+      "32981775": {
+        "pmid": "32981775",
+        "title": "Stroke prevention in patients with type 2 diabetes or prediabetes. Recommendations from the Cerebrovascular Diseases Study Group, Spanish Society of Neurology.",
+        "journal": "Neurologia",
+        "publication_date": "2021-May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32981775/"
+      },
+      "34238528": {
+        "pmid": "34238528",
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34238528/"
+      }
+    },
+    "confidence": 0.9164835214614868
+  },
+  {
+    "timestamp": "2025-11-25 04:51:23",
+    "query": "What causes heart disease?",
+    "answer": "Based on medical literature review: Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].. [PMID: 36291738] Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. [PMID: 30961498] In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. [PMID: 33219889] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36291738,
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "abstract": "Cardiovascular diseases (CVD) represent the leading cause of death in the world despite innovations in therapies and advances in the general management of patients [...].",
+        "specialty": "cardiology",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "similarity_score": 0.9203798174858093
+      },
+      {
+        "rank": 2,
+        "pmid": 30961498,
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "abstract": "Type 2 diabetes mellitus (T2DM) has emerged as a pandemic. It has different complications, both microvascular and macrovascular. The purpose of this review is to summarize the different types of macrovascular complications associated with T2DM. A comprehensive review of the literature was performed to identify clinical studies, which determine the macrovascular complications associated with T2DM. Macrovascular complications of T2DM include coronary heart disease, cardiomyopathy, arrhythmias and sudden death, cerebrovascular disease and peripheral artery disease. Cardiovascular disease is the primary cause of death in diabetic patients. Many clinical studies have shown a connection between T2DM and vascular disease, but almost always other risk factors are present in diabetic patients, such as hypertension, obesity and dyslipidaemia. T2DM causes a variety of macrovascular complications through different pathogenetic pathways that include hyperglycaemia and insulin resistance. The association between T2DM and cardiovascular disease is clear, but we need more clinical studies in order to identify the pure effect of T2DM.",
+        "specialty": "diabetes",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "similarity_score": 0.9092369079589844
+      },
+      {
+        "rank": 3,
+        "pmid": 33219889,
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "abstract": "In cardiomyocytes, high molecular ATP-dependent HSP70 and HSP90 play an important role in protecting the myocardium from abnormal proteins that appear, in particular, due to activation of oxidative stress. Molecular chaperone HSP60 is of particular importance for cardiomyocytes as it is responsible for assembly of mitochondrial matrix proteins. We studied the peculiarities of expression of HSP60 in left ventricular cardiomyocytes in hypertension, insulin-dependent diabetes mellitus, and their combination. The experiment was performed on 38-week-old male Wistar-Kyoto and SHR (spontaneously hypertensive) rats aged 38-57 weeks. Insulin-dependent diabetes mellitus was modeled by a single parenteral administration of 65 mg/kg streptozotocin. Expression of HSP60 in left ventricular cardiomyocytes was evaluated by immunohistochemical methods. It was found that hypertension, diabetes mellitus, and their combination are associated with a significant decrease in the content of HSP60 in left ventricular cardiomyocytes in comparison with the control. This finding can be considered as a pathogenetic mechanism of myocardial damage induced by hypertension and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "similarity_score": 0.9086912870407104
+      }
+    ],
+    "citations": {
+      "30961498": {
+        "pmid": "30961498",
+        "title": "Macrovascular Complications of Type 2 Diabetes Mellitus.",
+        "journal": "Current vascular pharmacology",
+        "publication_date": "2020-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30961498/"
+      },
+      "36291738": {
+        "pmid": "36291738",
+        "title": "Advances in Molecular Biomarkers in Cardiology.",
+        "journal": "Biomolecules",
+        "publication_date": "2022-Oct",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36291738/"
+      },
+      "33219889": {
+        "pmid": "33219889",
+        "title": "Heat Shock Protein HSP60 in Left Ventricular Cardiomyocytes of Hypertensive Rats with and without Insulin-Dependent Diabetes Mellitus.",
+        "journal": "Bulletin of experimental biology and medicine",
+        "publication_date": "2020-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33219889/"
+      }
+    },
+    "confidence": 0.9203798174858093
+  },
+  {
+    "timestamp": "2025-11-25 05:06:34",
+    "query": "what is oncology?",
+    "answer": "Based on medical literature review: Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].. [PMID: 34898580] The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.. [PMID: 32078620] Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).. [PMID: 39068109] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34898580,
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "abstract": "Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "similarity_score": 0.9344659447669983
+      },
+      {
+        "rank": 2,
+        "pmid": 32078620,
+        "title": "The Oncology Nursing Specialty.",
+        "abstract": "The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.",
+        "specialty": "oncology",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "similarity_score": 0.9332034587860107
+      },
+      {
+        "rank": 3,
+        "pmid": 39068109,
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "abstract": "Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).",
+        "specialty": "oncology",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "similarity_score": 0.9310086369514465
+      }
+    ],
+    "citations": {
+      "39068109": {
+        "pmid": "39068109",
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39068109/"
+      },
+      "34898580": {
+        "pmid": "34898580",
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34898580/"
+      },
+      "32078620": {
+        "pmid": "32078620",
+        "title": "The Oncology Nursing Specialty.",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078620/"
+      }
+    },
+    "confidence": 0.9344659447669983
+  },
+  {
+    "timestamp": "2025-11-25 05:09:19",
+    "query": "what is oncology?",
+    "answer": "Based on medical literature review: Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].. [PMID: 34898580] The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.. [PMID: 32078620] Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).. [PMID: 39068109] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34898580,
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "abstract": "Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "similarity_score": 0.9344659447669983
+      },
+      {
+        "rank": 2,
+        "pmid": 32078620,
+        "title": "The Oncology Nursing Specialty.",
+        "abstract": "The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.",
+        "specialty": "oncology",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "similarity_score": 0.9332034587860107
+      },
+      {
+        "rank": 3,
+        "pmid": 39068109,
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "abstract": "Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).",
+        "specialty": "oncology",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "similarity_score": 0.9310086369514465
+      }
+    ],
+    "citations": {
+      "32078620": {
+        "pmid": "32078620",
+        "title": "The Oncology Nursing Specialty.",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078620/"
+      },
+      "34898580": {
+        "pmid": "34898580",
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34898580/"
+      },
+      "39068109": {
+        "pmid": "39068109",
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39068109/"
+      }
+    },
+    "confidence": 0.9344659447669983
+  },
+  {
+    "timestamp": "2025-11-25 05:15:16",
+    "query": "what is oncology?",
+    "answer": "Based on medical literature review: Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].. [PMID: 34898580] The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.. [PMID: 32078620] Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).. [PMID: 39068109] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34898580,
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "abstract": "Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "similarity_score": 0.9344659447669983
+      },
+      {
+        "rank": 2,
+        "pmid": 32078620,
+        "title": "The Oncology Nursing Specialty.",
+        "abstract": "The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.",
+        "specialty": "oncology",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "similarity_score": 0.9332034587860107
+      },
+      {
+        "rank": 3,
+        "pmid": 39068109,
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "abstract": "Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).",
+        "specialty": "oncology",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "similarity_score": 0.9310086369514465
+      }
+    ],
+    "citations": {
+      "39068109": {
+        "pmid": "39068109",
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39068109/"
+      },
+      "34898580": {
+        "pmid": "34898580",
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34898580/"
+      },
+      "32078620": {
+        "pmid": "32078620",
+        "title": "The Oncology Nursing Specialty.",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078620/"
+      }
+    },
+    "confidence": 0.9344659447669983
+  },
+  {
+    "timestamp": "2025-11-25 05:19:57",
+    "query": "what is oncology?",
+    "answer": "Based on medical literature review: Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].. [PMID: 34898580] The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.. [PMID: 32078620] Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).. [PMID: 39068109] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34898580,
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "abstract": "Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "similarity_score": 0.9344659447669983
+      },
+      {
+        "rank": 2,
+        "pmid": 32078620,
+        "title": "The Oncology Nursing Specialty.",
+        "abstract": "The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.",
+        "specialty": "oncology",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "similarity_score": 0.9332034587860107
+      },
+      {
+        "rank": 3,
+        "pmid": 39068109,
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "abstract": "Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).",
+        "specialty": "oncology",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "similarity_score": 0.9310086369514465
+      }
+    ],
+    "citations": {
+      "39068109": {
+        "pmid": "39068109",
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39068109/"
+      },
+      "34898580": {
+        "pmid": "34898580",
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34898580/"
+      },
+      "32078620": {
+        "pmid": "32078620",
+        "title": "The Oncology Nursing Specialty.",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078620/"
+      }
+    },
+    "confidence": 0.9344659447669983
+  },
+  {
+    "timestamp": "2025-11-25 05:58:41",
+    "query": "what is oncology?\n",
+    "answer": "Based on medical literature review: Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].. [PMID: 34898580] The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.. [PMID: 32078620] Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).. [PMID: 39068109] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34898580,
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "abstract": "Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "similarity_score": 0.9344659447669983
+      },
+      {
+        "rank": 2,
+        "pmid": 32078620,
+        "title": "The Oncology Nursing Specialty.",
+        "abstract": "The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.",
+        "specialty": "oncology",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "similarity_score": 0.9332034587860107
+      },
+      {
+        "rank": 3,
+        "pmid": 39068109,
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "abstract": "Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).",
+        "specialty": "oncology",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "similarity_score": 0.9310086369514465
+      }
+    ],
+    "citations": {
+      "32078620": {
+        "pmid": "32078620",
+        "title": "The Oncology Nursing Specialty.",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078620/"
+      },
+      "34898580": {
+        "pmid": "34898580",
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34898580/"
+      },
+      "39068109": {
+        "pmid": "39068109",
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39068109/"
+      }
+    },
+    "confidence": 0.9344659447669983
+  },
+  {
+    "timestamp": "2025-11-25 06:00:43",
+    "query": "what is cardiology?\n",
+    "answer": "Based on medical literature review: Cardio-oncology is a unique subspecialty within oncology nursing that focuses on the assessment, identification, and management of cardiotoxicity induced or exacerbated by cancer treatment. Nurses are pivotal to the delivery of evidence-based assessment of and care for individuals who have preexisting cardiac conditions, as well as those for whom cardiac complications are related to the known and emerging toxicities of cancer treatment.. [PMID: 33480880] Heart University [https://www.heartuniversity.org/] is a free educational website providing structured training curricula with knowledge-based testing and access to webinars and conference recordings for practicing and in-training providers of paediatric and congenital cardiac care. To date, there are over 15,000 registered website users from over 140 countries on Heart University, with over 2,000 training modules and/or recorded educational videos. [PMID: 38604745] Despite a perceived increase in attention to gender differences in medicine, a comprehensive assessment of gender equality research, particularly in cardiology, remains underexplored. This observational retrospective study, focusing on documents related to \"Gender Equality\" according to the Sustainable Development Goals, reveals cardiology as a significant area for gender equality research, albeit with a decline in publications post-2018. [PMID: 38705638] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 33480880,
+        "title": "Cardio-Oncology: A Continually Evolving Subspecialty in Oncology Nursing.",
+        "abstract": "Cardio-oncology is a unique subspecialty within oncology nursing that focuses on the assessment, identification, and management of cardiotoxicity induced or exacerbated by cancer treatment. Nurses are pivotal to the delivery of evidence-based assessment of and care for individuals who have preexisting cardiac conditions, as well as those for whom cardiac complications are related to the known and emerging toxicities of cancer treatment.",
+        "specialty": "oncology",
+        "journal": "Clinical journal of oncology nursing",
+        "publication_date": "2021-Feb",
+        "similarity_score": 0.920592188835144
+      },
+      {
+        "rank": 2,
+        "pmid": 38604745,
+        "title": "Cardiology across continents: an interactive, case-based learning series.",
+        "abstract": "Heart University [https://www.heartuniversity.org/] is a free educational website providing structured training curricula with knowledge-based testing and access to webinars and conference recordings for practicing and in-training providers of paediatric and congenital cardiac care. To date, there are over 15,000 registered website users from over 140 countries on Heart University, with over 2,000 training modules and/or recorded educational videos. Heart University has developed an \"asynchronous\" educational lecture series entitled \"Pediatric and Congenital Cardiac Care in Resource-Limited Settings.\" This recorded lecture series is specifically focused on topics relevant to practicing paediatric and/or congenital cardiac care in low-resource settings.A relatively new initiative, \"Cardiology Across Continents,\" supplements the existing educational resources for providers of paediatric and/or congenital cardiac care in low-income countries and lower-middle-income countries by providing an additional live, interactive, case-based forum. Sessions occur every 1-2 months and focus on challenging cases from diagnostic or management perspective with a view to promote collaboration between partnered institutions. \"Cardiology Across Continents\" is an expanding initiative that facilitates learning and collaboration between clinicians across varied practice settings via interactive case discussions. We welcome trainees and providers of paediatric and congenital cardiac care to join the sessions and invite any insight that can enhance learning for clinicians around the world. This manuscript describes \"Cardiology Across Continents\" and discusses the development, history, current status, and future plans of Heart University.",
+        "specialty": "cardiology",
+        "journal": "Cardiology in the young",
+        "publication_date": "2024-Jun",
+        "similarity_score": 0.9182343482971191
+      },
+      {
+        "rank": 3,
+        "pmid": 38705638,
+        "title": "Gender equality in medical research: A cardiology-informed examination.",
+        "abstract": "Despite a perceived increase in attention to gender differences in medicine, a comprehensive assessment of gender equality research, particularly in cardiology, remains underexplored. This observational retrospective study, focusing on documents related to \"Gender Equality\" according to the Sustainable Development Goals, reveals cardiology as a significant area for gender equality research, albeit with a decline in publications post-2018. The analysis highlighted a concentrated effort in the United States and a considerable impact gap between gender-focused and general cardiology research. The global academic community must intensify research into gender disparities, which is essential for achieving professional gender equality and addressing the burden of cardiovascular diseases.",
+        "specialty": "cardiology",
+        "journal": "American heart journal",
+        "publication_date": "2024-Jun",
+        "similarity_score": 0.9174935221672058
+      }
+    ],
+    "citations": {
+      "38705638": {
+        "pmid": "38705638",
+        "title": "Gender equality in medical research: A cardiology-informed examination.",
+        "journal": "American heart journal",
+        "publication_date": "2024-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38705638/"
+      },
+      "33480880": {
+        "pmid": "33480880",
+        "title": "Cardio-Oncology: A Continually Evolving Subspecialty in Oncology Nursing.",
+        "journal": "Clinical journal of oncology nursing",
+        "publication_date": "2021-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33480880/"
+      },
+      "38604745": {
+        "pmid": "38604745",
+        "title": "Cardiology across continents: an interactive, case-based learning series.",
+        "journal": "Cardiology in the young",
+        "publication_date": "2024-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38604745/"
+      }
+    },
+    "confidence": 0.920592188835144
+  },
+  {
+    "timestamp": "2025-11-25 06:18:53",
+    "query": "what is oncology?",
+    "answer": "Based on medical literature review: Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].. [PMID: 34898580] The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.. [PMID: 32078620] Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).. [PMID: 39068109] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 34898580,
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "abstract": "Surgical oncology is commonly regarded as the field of surgery dealing with cancer [...].",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "similarity_score": 0.9344659447669983
+      },
+      {
+        "rank": 2,
+        "pmid": 32078620,
+        "title": "The Oncology Nursing Specialty.",
+        "abstract": "The oncology nursing specialty seeks to reduce the risks, incidence, and burden of cancer by encouraging healthy lifestyles, promoting early detection, improving the management of cancer symptoms and side effects throughout the disease trajectory, and leading the coordination of complex care needs.",
+        "specialty": "oncology",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "similarity_score": 0.9332034587860107
+      },
+      {
+        "rank": 3,
+        "pmid": 39068109,
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "abstract": "Despite the success of various cancer therapies on patient survival, these treatments can have negative side effects, particularly severe damage to the respiratory system. Given the rise in respiratory-associated illnesses in response to cancer treatment, we urge the field to consider a new discipline referred to as 'oncology-respirology' (or onco-respirology).",
+        "specialty": "oncology",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "similarity_score": 0.9310086369514465
+      }
+    ],
+    "citations": {
+      "34898580": {
+        "pmid": "34898580",
+        "title": "Surgical Oncology: Multidisciplinarity to Improve Cancer Treatment and Outcomes.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34898580/"
+      },
+      "32078620": {
+        "pmid": "32078620",
+        "title": "The Oncology Nursing Specialty.",
+        "journal": "Oncology nursing forum",
+        "publication_date": "2020-Mar",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32078620/"
+      },
+      "39068109": {
+        "pmid": "39068109",
+        "title": "Oncology-respirology: a discipline in dire need.",
+        "journal": "Trends in cancer",
+        "publication_date": "2024-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39068109/"
+      }
+    },
+    "confidence": 0.9344659447669983
+  },
+  {
+    "timestamp": "2025-11-25 06:23:32",
+    "query": "what is pulmonology?",
+    "answer": "Based on medical literature review: <b>Interventional pulmonology has undergone amazing ambitious changes and innovations over the past decades, which have to find their place in a wise multidisciplinary management of respiratory diseases</b> https://bit.ly/3dD237L. [PMID: 32554758] Interventional pulmonology is a dynamic and evolving field in respiratory medicine. Advances have improved the ability to diagnose and manage diseases of the airways. [PMID: 32593365] Interventional pulmonology is a rapidly evolving subspecialty of pulmonary medicine that offers advanced consultative and procedural services to patients with airway diseases, pleural diseases, as well as in the diagnosis and management of patients with thoracic malignancy. The institution of lung cancer screening modalities as well as the search of additional minimally invasive diagnostic and treatment modalities for lung cancer and other chronic lung diseases has led to an increased focus on the field of interventional pulmonology. [PMID: 33590989] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 32554758,
+        "title": "Interventional pulmonology: between ambition and wisdom.",
+        "abstract": "<b>Interventional pulmonology has undergone amazing ambitious changes and innovations over the past decades, which have to find their place in a wise multidisciplinary management of respiratory diseases</b> https://bit.ly/3dD237L",
+        "specialty": "pulmonology",
+        "journal": "European respiratory review : an official journal of the European Respiratory Society",
+        "publication_date": "2020-Jun",
+        "similarity_score": 0.9332326054573059
+      },
+      {
+        "rank": 2,
+        "pmid": 32593365,
+        "title": "Interventional Pulmonology: A Brave New World.",
+        "abstract": "Interventional pulmonology is a dynamic and evolving field in respiratory medicine. Advances have improved the ability to diagnose and manage diseases of the airways. A shift toward early detection of malignant disease has generated a focus on innovative diagnostic techniques. With patient populations living longer with malignant and benign diseases, the role for interventional bronchoscopy has grown. In cancer groups, novel immunotherapies have improved the prospects of clinical outcomes and reignited a focus on optimizing patient performance status to enable access to anticancer therapy. This review discusses current and emerging diagnostic modalities and therapeutic approaches available to manage airway diseases.",
+        "specialty": "pulmonology",
+        "journal": "Thoracic surgery clinics",
+        "publication_date": "2020-Aug",
+        "similarity_score": 0.9309612512588501
+      },
+      {
+        "rank": 3,
+        "pmid": 33590989,
+        "title": "Interventional Pulmonology: Diagnostic and Therapeutic Advances in Bronchoscopy.",
+        "abstract": "Interventional pulmonology is a rapidly evolving subspecialty of pulmonary medicine that offers advanced consultative and procedural services to patients with airway diseases, pleural diseases, as well as in the diagnosis and management of patients with thoracic malignancy. The institution of lung cancer screening modalities as well as the search of additional minimally invasive diagnostic and treatment modalities for lung cancer and other chronic lung diseases has led to an increased focus on the field of interventional pulmonology. Rapid advancements in the field over the last 2 decades has led to development of various new minimally invasive bronchoscopic approaches and techniques for patients with cancer as well as for patients with chronic lung diseases. A review of literature was performed using PubMed database to identify all articles published up till October 2020 relevant to the field of interventional pulmonology and bronchoscopy. The reference list of each article was searched to look for additional articles, and all relevant articles were included in the article. Newer technologies are now available such navigation platforms to diagnose and possibly treat peripheral pulmonary nodules, endobronchial ultrasound in diagnosis of mediastinal and hilar adenopathy as well as cryobiopsy in the diagnosis of diffuse lung diseases. In addition, flexible and rigid bronchoscopy continues to provide new and expanding ability to manage patients with benign and malignant central airway obstruction. Interventions are also available for diseases such as asthma, chronic bronchitis, chronic obstructive pulmonary disease, and emphysema that were traditionally treated with medical management alone. With continued high quality research and an increasing body of evidence, interventional bronchoscopy has enormous potential to provide both safe and effective options for patients with a variety of lung diseases.",
+        "specialty": "pulmonology",
+        "journal": "American journal of therapeutics",
+        "publication_date": "2021-Feb",
+        "similarity_score": 0.9293539524078369
+      }
+    ],
+    "citations": {
+      "33590989": {
+        "pmid": "33590989",
+        "title": "Interventional Pulmonology: Diagnostic and Therapeutic Advances in Bronchoscopy.",
+        "journal": "American journal of therapeutics",
+        "publication_date": "2021-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33590989/"
+      },
+      "32554758": {
+        "pmid": "32554758",
+        "title": "Interventional pulmonology: between ambition and wisdom.",
+        "journal": "European respiratory review : an official journal of the European Respiratory Society",
+        "publication_date": "2020-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32554758/"
+      },
+      "32593365": {
+        "pmid": "32593365",
+        "title": "Interventional Pulmonology: A Brave New World.",
+        "journal": "Thoracic surgery clinics",
+        "publication_date": "2020-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32593365/"
+      }
+    },
+    "confidence": 0.9332326054573059
+  },
+  {
+    "timestamp": "2025-11-25 06:54:02",
+    "query": "what is Infectious Diseases?",
+    "answer": "Based on medical literature review: Infectious diseases, which are caused by pathogens such as bacteria, viruses, fungi, and parasites, pose a serious threat to humans, animals, and plants [...].. [PMID: 36675263] Emerging infectious diseases (EIDs) are defined as diseases that are newly identified, newly introduced, or newly evolved; or diseases that have recently and rapidly changed in incidence or expanded geographic, host, or vector range agents; or previous infections that acquire new virulence factors; or infections that spread to unaffected regions [...].. [PMID: 35897451] Zoonoses are diseases and infections naturally transmitted between humans and vertebrate animals. Over the years, zoonoses have become increasingly significant threats to global health. [PMID: 36790888] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36675263,
+        "title": "Genomics: Infectious Disease and Host-Pathogen Interaction.",
+        "abstract": "Infectious diseases, which are caused by pathogens such as bacteria, viruses, fungi, and parasites, pose a serious threat to humans, animals, and plants [...].",
+        "specialty": "infectious_diseases",
+        "journal": "International journal of molecular sciences",
+        "publication_date": "2023-Jan",
+        "similarity_score": 0.9434347152709961
+      },
+      {
+        "rank": 2,
+        "pmid": 35897451,
+        "title": "Emerging Infectious Diseases and One Health: Implication for Public Health.",
+        "abstract": "Emerging infectious diseases (EIDs) are defined as diseases that are newly identified, newly introduced, or newly evolved; or diseases that have recently and rapidly changed in incidence or expanded geographic, host, or vector range agents; or previous infections that acquire new virulence factors; or infections that spread to unaffected regions [...].",
+        "specialty": "infectious_diseases",
+        "journal": "International journal of environmental research and public health",
+        "publication_date": "2022-Jul",
+        "similarity_score": 0.9330544471740723
+      },
+      {
+        "rank": 3,
+        "pmid": 36790888,
+        "title": "Domestic Animals as Potential Reservoirs of Zoonotic Viral Diseases.",
+        "abstract": "Zoonoses are diseases and infections naturally transmitted between humans and vertebrate animals. Over the years, zoonoses have become increasingly significant threats to global health. They form the dominant group of diseases among the emerging infectious diseases (EID) and currently account for 73% of EID. Approximately 25% of zoonoses originate in domestic animals. The etiological agents of zoonoses include different pathogens, with viruses accounting for approximately 30% of all zoonotic infections. Zoonotic diseases can be transmitted directly or indirectly, by contact, via aerosols, through a vector, or vertically in utero. Zoonotic diseases are found in every continent except Antarctica. Numerous factors associated with the pathogen, human activities, and the environment play significant roles in the transmission and emergence of zoonotic diseases. Effective response and control of zoonotic diseases call for multiple-sector involvement and collaboration according to the One Health concept.",
+        "specialty": "infectious_diseases",
+        "journal": "Annual review of animal biosciences",
+        "publication_date": "2023-Feb",
+        "similarity_score": 0.9266273379325867
+      }
+    ],
+    "citations": {
+      "36790888": {
+        "pmid": "36790888",
+        "title": "Domestic Animals as Potential Reservoirs of Zoonotic Viral Diseases.",
+        "journal": "Annual review of animal biosciences",
+        "publication_date": "2023-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36790888/"
+      },
+      "35897451": {
+        "pmid": "35897451",
+        "title": "Emerging Infectious Diseases and One Health: Implication for Public Health.",
+        "journal": "International journal of environmental research and public health",
+        "publication_date": "2022-Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35897451/"
+      },
+      "36675263": {
+        "pmid": "36675263",
+        "title": "Genomics: Infectious Disease and Host-Pathogen Interaction.",
+        "journal": "International journal of molecular sciences",
+        "publication_date": "2023-Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36675263/"
+      }
+    },
+    "confidence": 0.9434347152709961
+  },
+  {
+    "timestamp": "2025-11-25 06:55:28",
+    "query": "What type and stage of cancer do I have, and what does that mean for my prognosis?",
+    "answer": "Based on medical literature review: Renal cell carcinoma (RCC) is a malignant tumor and the third most common urinary disease. It was estimated that RCC affected over 350,000 individuals in 2013, and there are nearly 140,000 deaths annually due to this disease. [PMID: 32529862] Non-melanoma skin cancers are the most prevalent form of cancer, with cutaneous squamous cell carcinoma (cscc) being the 2nd most common type. Patients presenting with high-risk lesions associated with locally advanced or metastatic cscc face high rates of recurrence and mortality. [PMID: 32905333] Gastric adenosquamous carcinoma (gasc) is a rare entity with distinctive characteristics that are not fully understood. In the present study, we evaluated the characteristics of this rare disease. [PMID: 33380867] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 32529862,
+        "title": "Research progress on advanced renal cell carcinoma.",
+        "abstract": "Renal cell carcinoma (RCC) is a malignant tumor and the third most common urinary disease. It was estimated that RCC affected over 350,000 individuals in 2013, and there are nearly 140,000 deaths annually due to this disease. The initial masses in RCC patients are mostly confined to a single organ. However, due to the metastatic spread of cancer cells through the circulatory system, more than 30% of RCC patients relapse after surgery. The appearance of distant metastases often means that patients enter the advanced stage of cancer with low quality of life and a short expected survival time. This review aims to describe the extant research on advanced RCC, including its pathophysiology, heterogeneity, diagnosis, treatment, and prospects. We try to highlight the most suitable means of treating advanced RCC patients, focusing on comprehensive personalized treatments.",
+        "specialty": "nephrology",
+        "journal": "The Journal of international medical research",
+        "publication_date": "2020-Jun",
+        "similarity_score": 0.9468562602996826
+      },
+      {
+        "rank": 2,
+        "pmid": 32905333,
+        "title": "Multidisciplinary management of locally advanced and metastatic cutaneous squamous cell carcinoma.",
+        "abstract": "Non-melanoma skin cancers are the most prevalent form of cancer, with cutaneous squamous cell carcinoma (cscc) being the 2nd most common type. Patients presenting with high-risk lesions associated with locally advanced or metastatic cscc face high rates of recurrence and mortality. Accurate staging and risk stratification for patients can be challenging because no system is universally accepted, and no Canadian guidelines currently exist. Patients with advanced cscc are often deemed ineligible for either or both of curative surgery and radiation therapy (rt) and, until recently, were limited to off-label systemic cisplatin-fluorouracil or cetuximab therapy, which offers modest clinical benefits and potentially severe toxicity. A new systemic therapy, cemiplimab, has been approved for the treatment of locally advanced and metastatic cscc. In the present review, we provide recommendations for patient classification and staging based on current guidelines, direction for determining patient eligibility for surgery and rt, and an overview of the available systemic treatment options for advanced cscc and of the benefits of a multidisciplinary approach to patient management.",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2020-Aug",
+        "similarity_score": 0.9416099786758423
+      },
+      {
+        "rank": 3,
+        "pmid": 33380867,
+        "title": "Clinicopathologic characteristics, survival, and treatments for gastric adenosquamous carcinoma: a population-based study.",
+        "abstract": "Gastric adenosquamous carcinoma (gasc) is a rare entity with distinctive characteristics that are not fully understood. In the present study, we evaluated the characteristics of this rare disease. The U.S. Surveillance, Epidemiology, and End Results program database was searched to determine the clinicopathologic features, prognostic factors, and treatments for 246 patients with gasc and 42,735 patients with gastric adenocarcinoma (gac). Relative to gac, gasc is associated with higher proportions of cardia involvement, high-grade tumours, deep tumour invasion, metastatic lymph nodes, and chemotherapy treatment. In patients who underwent potentially curative surgery (pcs), gasc was associated with a higher proportion of radiotherapy use and poorer overall survival (<i>p</i> < 0.001), although no significant difference (<i>p</i> = 0.802) was observed after propensity score matching (psm). Multivariate analysis after psm revealed that the independent prognostic factors for gasc were TNM stage [hazard ratio (hr): 1.512; <i>p</i> = 0.021] and regional nodes examined (hr: 0.588; <i>p</i> = 0.02). In patients with advanced disease, no significant difference in survival between gasc and gac was observed (<i>p</i> = 0.212), although survival was significantly poorer for gasc after psm (<i>p</i> = 0.019). Multivariate analysis after psm revealed that the independent prognostic factors for gasc were invasion depth (hr: 1.303; <i>p</i> = 0.036) and chemotherapy (hr: 0.444; <i>p</i> < 0.001). Relative to gac, gasc was associated with more aggressive features, although survival outcomes were similar after pcs. Chemotherapy remains a mainstay of treatment for patients with advanced gasc, but its role remains unclear for patients who are undergoing pcs.",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2020-Dec",
+        "similarity_score": 0.9391623735427856
+      }
+    ],
+    "citations": {
+      "32905333": {
+        "pmid": "32905333",
+        "title": "Multidisciplinary management of locally advanced and metastatic cutaneous squamous cell carcinoma.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2020-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32905333/"
+      },
+      "32529862": {
+        "pmid": "32529862",
+        "title": "Research progress on advanced renal cell carcinoma.",
+        "journal": "The Journal of international medical research",
+        "publication_date": "2020-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32529862/"
+      },
+      "33380867": {
+        "pmid": "33380867",
+        "title": "Clinicopathologic characteristics, survival, and treatments for gastric adenosquamous carcinoma: a population-based study.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2020-Dec",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33380867/"
+      }
+    },
+    "confidence": 0.9468562602996826
+  },
+  {
+    "timestamp": "2025-11-25 07:28:50",
+    "query": "A 60-year-old with a history of hypertension and dyslipidemia has a blood pressure of \\(172/94\\) mmHg. Which class of antihypertensive medication is a particularly good choice given the patient's age and need for add-on therapy?",
+    "answer": "Based on medical literature review: The prevalence of diabetes mellitus continues to increase worldwide, and it is a well-established cardiovascular risk factor. Hypertension is also an important cardiovascular risk factor to be controlled and is common among patients with diabetes mellitus. [PMID: 36193727] To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. [PMID: 34238528] Herein, we provide a review of the recent literature on the epidemiological and pathophysiological relationship between hypertension (HTN) and diabetes mellitus, along with prognostic implications and current treatment concepts. Diabetes mellitus affects \u223c10% of US adults. [PMID: 32371623] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36193727,
+        "title": "Blood Pressure Target in Type 2 Diabetes Mellitus.",
+        "abstract": "The prevalence of diabetes mellitus continues to increase worldwide, and it is a well-established cardiovascular risk factor. Hypertension is also an important cardiovascular risk factor to be controlled and is common among patients with diabetes mellitus. Optimal blood pressure (BP) goals have been the subject of great debate in the management of hypertension among patients with diabetes mellitus. This review provides detailed results from randomized controlled trials and meta-analyses of clinical outcomes according to the target BP in patients with type 2 diabetes mellitus. In addition, the target BP in patients with diabetes mellitus recommended by different guidelines was summarized and presented. A target BP of <140/90 mm Hg is recommended for patients with hypertension and diabetes mellitus, and BP should be controlled to <130/80 mm Hg in patients with diabetes mellitus who have high-risk clinical features. We hope that this review will be helpful to clinicians and patients by promoting the understanding and appropriate application of BP control in the comprehensive management of patients with diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Diabetes & metabolism journal",
+        "publication_date": "2022-Sep",
+        "similarity_score": 0.9512547254562378
+      },
+      {
+        "rank": 2,
+        "pmid": 34238528,
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "abstract": "To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. We conducted a systematic review of the PubMed database and analysed the main clinical trials to address these questions and establish a series of recommendations. In primary stroke prevention, antihypertensive treatment should be started in patients with BP levels\u202f>\u202f 140/90\u202fmmHg, with a target BP of < 130/80\u202fmmHg. In secondary stroke prevention, we recommend starting antihypertensive treatment after the acute phase (first 24\u202fhours), with a target BP of < 130/80\u202fmmHg. The use of angiotensin-II receptor antagonists or diuretics alone or in combination with angiotensin-converting enzyme inhibitors is preferable.",
+        "specialty": "neurology",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "similarity_score": 0.939815878868103
+      },
+      {
+        "rank": 3,
+        "pmid": 32371623,
+        "title": "Hypertension and diabetes mellitus: highlights of a complex relationship.",
+        "abstract": "Herein, we provide a review of the recent literature on the epidemiological and pathophysiological relationship between hypertension (HTN) and diabetes mellitus, along with prognostic implications and current treatment concepts. Diabetes mellitus affects \u223c10% of US adults. The prevalence of HTN in adults with diabetes mellitus was 76.3% or 66.0% based on the definitions used by guidelines. There exist differences among major society guidelines regarding the definition of HTN and target blood pressure (BP) levels. Recent basic and clinical research studies have shed light on pathophysiologic and genetic links between HTN and diabetes mellitus. Randomized controlled trials over the past 5 years have confirmed the favorable BP and cardiovascular risk reduction by antidiabetic agents. HTN and diabetes mellitus are 'silent killers' with rising global prevalence. The development of HTN and diabetes mellitus tracks each other over time. The coexistence of both clinical entities synergistically contributes to micro- and macro-vasculopathy along with cardiovascular and all-cause mortality. Various shared mechanisms underlie the pathophysiological relationship between HTN and diabetes mellitus. Moreover, BP reduction with lifestyle interventions and antihypertensive agents is a primary target for reducing cardiovascular risk among patients with HTN and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Current opinion in cardiology",
+        "publication_date": "2020-Jul",
+        "similarity_score": 0.9394872188568115
+      }
+    ],
+    "citations": {
+      "34238528": {
+        "pmid": "34238528",
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34238528/"
+      },
+      "32371623": {
+        "pmid": "32371623",
+        "title": "Hypertension and diabetes mellitus: highlights of a complex relationship.",
+        "journal": "Current opinion in cardiology",
+        "publication_date": "2020-Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32371623/"
+      },
+      "36193727": {
+        "pmid": "36193727",
+        "title": "Blood Pressure Target in Type 2 Diabetes Mellitus.",
+        "journal": "Diabetes & metabolism journal",
+        "publication_date": "2022-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36193727/"
+      }
+    },
+    "confidence": 0.9512547254562378
+  },
+  {
+    "timestamp": "2025-11-25 07:31:05",
+    "query": "what is pulmonology?",
+    "answer": "Based on medical literature review: <b>Interventional pulmonology has undergone amazing ambitious changes and innovations over the past decades, which have to find their place in a wise multidisciplinary management of respiratory diseases</b> https://bit.ly/3dD237L. [PMID: 32554758] Interventional pulmonology is a dynamic and evolving field in respiratory medicine. Advances have improved the ability to diagnose and manage diseases of the airways. [PMID: 32593365] Interventional pulmonology is a rapidly evolving subspecialty of pulmonary medicine that offers advanced consultative and procedural services to patients with airway diseases, pleural diseases, as well as in the diagnosis and management of patients with thoracic malignancy. The institution of lung cancer screening modalities as well as the search of additional minimally invasive diagnostic and treatment modalities for lung cancer and other chronic lung diseases has led to an increased focus on the field of interventional pulmonology. [PMID: 33590989] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 32554758,
+        "title": "Interventional pulmonology: between ambition and wisdom.",
+        "abstract": "<b>Interventional pulmonology has undergone amazing ambitious changes and innovations over the past decades, which have to find their place in a wise multidisciplinary management of respiratory diseases</b> https://bit.ly/3dD237L",
+        "specialty": "pulmonology",
+        "journal": "European respiratory review : an official journal of the European Respiratory Society",
+        "publication_date": "2020-Jun",
+        "similarity_score": 0.9332326054573059
+      },
+      {
+        "rank": 2,
+        "pmid": 32593365,
+        "title": "Interventional Pulmonology: A Brave New World.",
+        "abstract": "Interventional pulmonology is a dynamic and evolving field in respiratory medicine. Advances have improved the ability to diagnose and manage diseases of the airways. A shift toward early detection of malignant disease has generated a focus on innovative diagnostic techniques. With patient populations living longer with malignant and benign diseases, the role for interventional bronchoscopy has grown. In cancer groups, novel immunotherapies have improved the prospects of clinical outcomes and reignited a focus on optimizing patient performance status to enable access to anticancer therapy. This review discusses current and emerging diagnostic modalities and therapeutic approaches available to manage airway diseases.",
+        "specialty": "pulmonology",
+        "journal": "Thoracic surgery clinics",
+        "publication_date": "2020-Aug",
+        "similarity_score": 0.9309612512588501
+      },
+      {
+        "rank": 3,
+        "pmid": 33590989,
+        "title": "Interventional Pulmonology: Diagnostic and Therapeutic Advances in Bronchoscopy.",
+        "abstract": "Interventional pulmonology is a rapidly evolving subspecialty of pulmonary medicine that offers advanced consultative and procedural services to patients with airway diseases, pleural diseases, as well as in the diagnosis and management of patients with thoracic malignancy. The institution of lung cancer screening modalities as well as the search of additional minimally invasive diagnostic and treatment modalities for lung cancer and other chronic lung diseases has led to an increased focus on the field of interventional pulmonology. Rapid advancements in the field over the last 2 decades has led to development of various new minimally invasive bronchoscopic approaches and techniques for patients with cancer as well as for patients with chronic lung diseases. A review of literature was performed using PubMed database to identify all articles published up till October 2020 relevant to the field of interventional pulmonology and bronchoscopy. The reference list of each article was searched to look for additional articles, and all relevant articles were included in the article. Newer technologies are now available such navigation platforms to diagnose and possibly treat peripheral pulmonary nodules, endobronchial ultrasound in diagnosis of mediastinal and hilar adenopathy as well as cryobiopsy in the diagnosis of diffuse lung diseases. In addition, flexible and rigid bronchoscopy continues to provide new and expanding ability to manage patients with benign and malignant central airway obstruction. Interventions are also available for diseases such as asthma, chronic bronchitis, chronic obstructive pulmonary disease, and emphysema that were traditionally treated with medical management alone. With continued high quality research and an increasing body of evidence, interventional bronchoscopy has enormous potential to provide both safe and effective options for patients with a variety of lung diseases.",
+        "specialty": "pulmonology",
+        "journal": "American journal of therapeutics",
+        "publication_date": "2021-Feb",
+        "similarity_score": 0.9293539524078369
+      }
+    ],
+    "citations": {
+      "33590989": {
+        "pmid": "33590989",
+        "title": "Interventional Pulmonology: Diagnostic and Therapeutic Advances in Bronchoscopy.",
+        "journal": "American journal of therapeutics",
+        "publication_date": "2021-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33590989/"
+      },
+      "32554758": {
+        "pmid": "32554758",
+        "title": "Interventional pulmonology: between ambition and wisdom.",
+        "journal": "European respiratory review : an official journal of the European Respiratory Society",
+        "publication_date": "2020-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32554758/"
+      },
+      "32593365": {
+        "pmid": "32593365",
+        "title": "Interventional Pulmonology: A Brave New World.",
+        "journal": "Thoracic surgery clinics",
+        "publication_date": "2020-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32593365/"
+      }
+    },
+    "confidence": 0.9332326054573059
+  },
+  {
+    "timestamp": "2025-11-25 07:32:02",
+    "query": "What is the primary consideration when administering thrombolytic therapy to a patient with an acute MI, and how does aspirin play a role in this management?",
+    "answer": "Based on medical literature review: A few decades ago, the understanding of the pathophysiological processes involved in the coronary artery thrombus formation has placed anticoagulant and antiplatelet agents at the core of the management of acute coronary syndrome (ACS). Increasingly potent antithrombotic agents have since been evaluated, in various association, timing, or dosage, in numerous randomized controlled trials to interrupt the initial thrombus formation, prevent ischemic complications, and ultimately improve survival. [PMID: 33506483] Antithrombotic therapy represents the cornerstone of the pharmacological treatment in patients with acute coronary syndrome (ACS). The optimal combination and duration of antithrombotic therapy is still matter of debate requiring a critical assessment of patient comorbidities, clinical presentation, revascularization modality, and/or optimization of medical treatment. [PMID: 38170562] Cardiology and all its subspecialties continue to push the envelope in developing new treatment strategies for a wide variety of diseases. After screening more than 1300 articles, we highlight a selection of important cardiology articles published in 2023. [PMID: 38621242] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 33506483,
+        "title": "Antithrombotic Therapy in Acute Coronary Syndromes: Current Evidence and Ongoing Issues Regarding Early and Late Management.",
+        "abstract": "A few decades ago, the understanding of the pathophysiological processes involved in the coronary artery thrombus formation has placed anticoagulant and antiplatelet agents at the core of the management of acute coronary syndrome (ACS). Increasingly potent antithrombotic agents have since been evaluated, in various association, timing, or dosage, in numerous randomized controlled trials to interrupt the initial thrombus formation, prevent ischemic complications, and ultimately improve survival. Primary percutaneous coronary intervention, initial parenteral anticoagulation, and dual antiplatelet therapy with potent P2Y<sub>12</sub> inhibitors have become the hallmark of ACS management revolutionizing its prognosis. Despite these many improvements, much more remains to be done to optimize the onset of action of the various antithrombotic therapies, for further treating and preventing thrombotic events without exposing the patients to an unbearable hemorrhagic risk. The availability of various potent P2Y<sub>12</sub> inhibitors has opened the door for individualized therapeutic strategies based on the clinical setting as well as the ischemic and bleeding risk of the patients, while the added value of aspirin has been recently challenged. The strategy of dual-pathway inhibition with P2Y<sub>12</sub> inhibitors and low-dose non-vitamin K antagonist oral anticoagulant has brought promising results for the early and late management of patients presenting with ACS with and without indication for oral anticoagulation. In this updated review, we aimed at describing the evidence supporting the current gold standard of antithrombotic management of ACS. More importantly, we provide an overview of some of the ongoing issues and promising therapeutic strategies of this ever-evolving topic.",
+        "specialty": "cardiology",
+        "journal": "Thrombosis and haemostasis",
+        "publication_date": "2021-Jul",
+        "similarity_score": 0.9522047638893127
+      },
+      {
+        "rank": 2,
+        "pmid": 38170562,
+        "title": "Antithrombotic therapy in patients with acute coronary syndrome: similarities and differences between a European expert consensus document and the 2023 European Society of Cardiology guidelines.",
+        "abstract": "Antithrombotic therapy represents the cornerstone of the pharmacological treatment in patients with acute coronary syndrome (ACS). The optimal combination and duration of antithrombotic therapy is still matter of debate requiring a critical assessment of patient comorbidities, clinical presentation, revascularization modality, and/or optimization of medical treatment. The 2023 European Society of Cardiology (ESC) guidelines for the management of patients with ACS encompassing both patients with and without ST segment elevation ACS have been recently published. Shortly before, a European expert consensus task force produced guidance for clinicians on the management of antithrombotic therapy in patients with ACS as well as chronic coronary syndrome. The scope of this manuscript is to provide a critical appraisal of differences and similarities between the European consensus paper and the latest ESC recommendations on oral antithrombotic regimens in ACS patients.",
+        "specialty": "cardiology",
+        "journal": "European heart journal. Acute cardiovascular care",
+        "publication_date": "2024-Feb",
+        "similarity_score": 0.9420902729034424
+      },
+      {
+        "rank": 3,
+        "pmid": 38621242,
+        "title": "Cardiology: What You May Have Missed in 2023.",
+        "abstract": "Cardiology and all its subspecialties continue to push the envelope in developing new treatment strategies for a wide variety of diseases. After screening more than 1300 articles, we highlight a selection of important cardiology articles published in 2023. Starting with prevention, we note articles that look at the effect of semaglutide in patients with obesity as well as a first-in-class drug, bempedoic acid, on cardiovascular outcomes. We have also examined new evidence comparing conservative management with invasive management of frail, older patients with non-ST-segment elevation myocardial infarction (NSTEMI). In patients with cardiac arrest secondary to NSTEMI, another article examines the rationale for expedited transfer to a cardiac arrest center. The STREAM-2 (Strategic Reperfusion in Elderly Patients Early After Myocardial Infarction) trial builds on looking at half-dose thrombolysis in older populations with STEMI. Emphasis is placed on guideline-directed medical therapy before hospital discharge in those with heart failure. In addition, in patients with stable symptomatic coronary artery disease, initial noninvasive testing using coronary computed tomography angiography may be a viable option compared with invasive strategies. More details have emerged on anticoagulation strategies in those with device-detected atrial fibrillation. Finally, transcatheter approaches to treat both mitral and tricuspid regurgitation have also been included.",
+        "specialty": "cardiology",
+        "journal": "Annals of internal medicine",
+        "publication_date": "2024-May",
+        "similarity_score": 0.938453197479248
+      }
+    ],
+    "citations": {
+      "33506483": {
+        "pmid": "33506483",
+        "title": "Antithrombotic Therapy in Acute Coronary Syndromes: Current Evidence and Ongoing Issues Regarding Early and Late Management.",
+        "journal": "Thrombosis and haemostasis",
+        "publication_date": "2021-Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33506483/"
+      },
+      "38170562": {
+        "pmid": "38170562",
+        "title": "Antithrombotic therapy in patients with acute coronary syndrome: similarities and differences between a European expert consensus document and the 2023 European Society of Cardiology guidelines.",
+        "journal": "European heart journal. Acute cardiovascular care",
+        "publication_date": "2024-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38170562/"
+      },
+      "38621242": {
+        "pmid": "38621242",
+        "title": "Cardiology: What You May Have Missed in 2023.",
+        "journal": "Annals of internal medicine",
+        "publication_date": "2024-May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38621242/"
+      }
+    },
+    "confidence": 0.9522047638893127
+  },
+  {
+    "timestamp": "2025-11-25 07:34:07",
+    "query": "What is the primary consideration when administering thrombolytic therapy to a patient with an acute MI, and how does aspirin play a role in this management?",
+    "answer": "Based on medical literature review: A few decades ago, the understanding of the pathophysiological processes involved in the coronary artery thrombus formation has placed anticoagulant and antiplatelet agents at the core of the management of acute coronary syndrome (ACS). Increasingly potent antithrombotic agents have since been evaluated, in various association, timing, or dosage, in numerous randomized controlled trials to interrupt the initial thrombus formation, prevent ischemic complications, and ultimately improve survival. [PMID: 33506483] Antithrombotic therapy represents the cornerstone of the pharmacological treatment in patients with acute coronary syndrome (ACS). The optimal combination and duration of antithrombotic therapy is still matter of debate requiring a critical assessment of patient comorbidities, clinical presentation, revascularization modality, and/or optimization of medical treatment. [PMID: 38170562] Cardiology and all its subspecialties continue to push the envelope in developing new treatment strategies for a wide variety of diseases. After screening more than 1300 articles, we highlight a selection of important cardiology articles published in 2023. [PMID: 38621242] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 33506483,
+        "title": "Antithrombotic Therapy in Acute Coronary Syndromes: Current Evidence and Ongoing Issues Regarding Early and Late Management.",
+        "abstract": "A few decades ago, the understanding of the pathophysiological processes involved in the coronary artery thrombus formation has placed anticoagulant and antiplatelet agents at the core of the management of acute coronary syndrome (ACS). Increasingly potent antithrombotic agents have since been evaluated, in various association, timing, or dosage, in numerous randomized controlled trials to interrupt the initial thrombus formation, prevent ischemic complications, and ultimately improve survival. Primary percutaneous coronary intervention, initial parenteral anticoagulation, and dual antiplatelet therapy with potent P2Y<sub>12</sub> inhibitors have become the hallmark of ACS management revolutionizing its prognosis. Despite these many improvements, much more remains to be done to optimize the onset of action of the various antithrombotic therapies, for further treating and preventing thrombotic events without exposing the patients to an unbearable hemorrhagic risk. The availability of various potent P2Y<sub>12</sub> inhibitors has opened the door for individualized therapeutic strategies based on the clinical setting as well as the ischemic and bleeding risk of the patients, while the added value of aspirin has been recently challenged. The strategy of dual-pathway inhibition with P2Y<sub>12</sub> inhibitors and low-dose non-vitamin K antagonist oral anticoagulant has brought promising results for the early and late management of patients presenting with ACS with and without indication for oral anticoagulation. In this updated review, we aimed at describing the evidence supporting the current gold standard of antithrombotic management of ACS. More importantly, we provide an overview of some of the ongoing issues and promising therapeutic strategies of this ever-evolving topic.",
+        "specialty": "cardiology",
+        "journal": "Thrombosis and haemostasis",
+        "publication_date": "2021-Jul",
+        "similarity_score": 0.9522047638893127
+      },
+      {
+        "rank": 2,
+        "pmid": 38170562,
+        "title": "Antithrombotic therapy in patients with acute coronary syndrome: similarities and differences between a European expert consensus document and the 2023 European Society of Cardiology guidelines.",
+        "abstract": "Antithrombotic therapy represents the cornerstone of the pharmacological treatment in patients with acute coronary syndrome (ACS). The optimal combination and duration of antithrombotic therapy is still matter of debate requiring a critical assessment of patient comorbidities, clinical presentation, revascularization modality, and/or optimization of medical treatment. The 2023 European Society of Cardiology (ESC) guidelines for the management of patients with ACS encompassing both patients with and without ST segment elevation ACS have been recently published. Shortly before, a European expert consensus task force produced guidance for clinicians on the management of antithrombotic therapy in patients with ACS as well as chronic coronary syndrome. The scope of this manuscript is to provide a critical appraisal of differences and similarities between the European consensus paper and the latest ESC recommendations on oral antithrombotic regimens in ACS patients.",
+        "specialty": "cardiology",
+        "journal": "European heart journal. Acute cardiovascular care",
+        "publication_date": "2024-Feb",
+        "similarity_score": 0.9420902729034424
+      },
+      {
+        "rank": 3,
+        "pmid": 38621242,
+        "title": "Cardiology: What You May Have Missed in 2023.",
+        "abstract": "Cardiology and all its subspecialties continue to push the envelope in developing new treatment strategies for a wide variety of diseases. After screening more than 1300 articles, we highlight a selection of important cardiology articles published in 2023. Starting with prevention, we note articles that look at the effect of semaglutide in patients with obesity as well as a first-in-class drug, bempedoic acid, on cardiovascular outcomes. We have also examined new evidence comparing conservative management with invasive management of frail, older patients with non-ST-segment elevation myocardial infarction (NSTEMI). In patients with cardiac arrest secondary to NSTEMI, another article examines the rationale for expedited transfer to a cardiac arrest center. The STREAM-2 (Strategic Reperfusion in Elderly Patients Early After Myocardial Infarction) trial builds on looking at half-dose thrombolysis in older populations with STEMI. Emphasis is placed on guideline-directed medical therapy before hospital discharge in those with heart failure. In addition, in patients with stable symptomatic coronary artery disease, initial noninvasive testing using coronary computed tomography angiography may be a viable option compared with invasive strategies. More details have emerged on anticoagulation strategies in those with device-detected atrial fibrillation. Finally, transcatheter approaches to treat both mitral and tricuspid regurgitation have also been included.",
+        "specialty": "cardiology",
+        "journal": "Annals of internal medicine",
+        "publication_date": "2024-May",
+        "similarity_score": 0.938453197479248
+      }
+    ],
+    "citations": {
+      "33506483": {
+        "pmid": "33506483",
+        "title": "Antithrombotic Therapy in Acute Coronary Syndromes: Current Evidence and Ongoing Issues Regarding Early and Late Management.",
+        "journal": "Thrombosis and haemostasis",
+        "publication_date": "2021-Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33506483/"
+      },
+      "38170562": {
+        "pmid": "38170562",
+        "title": "Antithrombotic therapy in patients with acute coronary syndrome: similarities and differences between a European expert consensus document and the 2023 European Society of Cardiology guidelines.",
+        "journal": "European heart journal. Acute cardiovascular care",
+        "publication_date": "2024-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38170562/"
+      },
+      "38621242": {
+        "pmid": "38621242",
+        "title": "Cardiology: What You May Have Missed in 2023.",
+        "journal": "Annals of internal medicine",
+        "publication_date": "2024-May",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38621242/"
+      }
+    },
+    "confidence": 0.9522047638893127
+  },
+  {
+    "timestamp": "2025-11-25 07:34:14",
+    "query": "A 60-year-old with a history of hypertension and dyslipidemia has a blood pressure of \\(172/94\\) mmHg. Which class of antihypertensive medication is a particularly good choice given the patient's age and need for add-on therapy?",
+    "answer": "Based on medical literature review: The prevalence of diabetes mellitus continues to increase worldwide, and it is a well-established cardiovascular risk factor. Hypertension is also an important cardiovascular risk factor to be controlled and is common among patients with diabetes mellitus. [PMID: 36193727] To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. [PMID: 34238528] Herein, we provide a review of the recent literature on the epidemiological and pathophysiological relationship between hypertension (HTN) and diabetes mellitus, along with prognostic implications and current treatment concepts. Diabetes mellitus affects \u223c10% of US adults. [PMID: 32371623] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36193727,
+        "title": "Blood Pressure Target in Type 2 Diabetes Mellitus.",
+        "abstract": "The prevalence of diabetes mellitus continues to increase worldwide, and it is a well-established cardiovascular risk factor. Hypertension is also an important cardiovascular risk factor to be controlled and is common among patients with diabetes mellitus. Optimal blood pressure (BP) goals have been the subject of great debate in the management of hypertension among patients with diabetes mellitus. This review provides detailed results from randomized controlled trials and meta-analyses of clinical outcomes according to the target BP in patients with type 2 diabetes mellitus. In addition, the target BP in patients with diabetes mellitus recommended by different guidelines was summarized and presented. A target BP of <140/90 mm Hg is recommended for patients with hypertension and diabetes mellitus, and BP should be controlled to <130/80 mm Hg in patients with diabetes mellitus who have high-risk clinical features. We hope that this review will be helpful to clinicians and patients by promoting the understanding and appropriate application of BP control in the comprehensive management of patients with diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Diabetes & metabolism journal",
+        "publication_date": "2022-Sep",
+        "similarity_score": 0.9512547254562378
+      },
+      {
+        "rank": 2,
+        "pmid": 34238528,
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "abstract": "To update the recommendations of the Spanish Society of Neurology on primary and secondary stroke prevention in patients with arterial hypertension. We proposed several questions to identify practical issues for the management of blood pressure (BP) in stroke prevention, analysing the objectives of blood pressure control, which drugs are most appropriate in primary prevention, when antihypertensive treatment should be started after a stroke, what levels we should aim to achieve, and which drugs are most appropriate in secondary stroke prevention. We conducted a systematic review of the PubMed database and analysed the main clinical trials to address these questions and establish a series of recommendations. In primary stroke prevention, antihypertensive treatment should be started in patients with BP levels\u202f>\u202f 140/90\u202fmmHg, with a target BP of < 130/80\u202fmmHg. In secondary stroke prevention, we recommend starting antihypertensive treatment after the acute phase (first 24\u202fhours), with a target BP of < 130/80\u202fmmHg. The use of angiotensin-II receptor antagonists or diuretics alone or in combination with angiotensin-converting enzyme inhibitors is preferable.",
+        "specialty": "neurology",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "similarity_score": 0.939815878868103
+      },
+      {
+        "rank": 3,
+        "pmid": 32371623,
+        "title": "Hypertension and diabetes mellitus: highlights of a complex relationship.",
+        "abstract": "Herein, we provide a review of the recent literature on the epidemiological and pathophysiological relationship between hypertension (HTN) and diabetes mellitus, along with prognostic implications and current treatment concepts. Diabetes mellitus affects \u223c10% of US adults. The prevalence of HTN in adults with diabetes mellitus was 76.3% or 66.0% based on the definitions used by guidelines. There exist differences among major society guidelines regarding the definition of HTN and target blood pressure (BP) levels. Recent basic and clinical research studies have shed light on pathophysiologic and genetic links between HTN and diabetes mellitus. Randomized controlled trials over the past 5 years have confirmed the favorable BP and cardiovascular risk reduction by antidiabetic agents. HTN and diabetes mellitus are 'silent killers' with rising global prevalence. The development of HTN and diabetes mellitus tracks each other over time. The coexistence of both clinical entities synergistically contributes to micro- and macro-vasculopathy along with cardiovascular and all-cause mortality. Various shared mechanisms underlie the pathophysiological relationship between HTN and diabetes mellitus. Moreover, BP reduction with lifestyle interventions and antihypertensive agents is a primary target for reducing cardiovascular risk among patients with HTN and diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Current opinion in cardiology",
+        "publication_date": "2020-Jul",
+        "similarity_score": 0.9394872188568115
+      }
+    ],
+    "citations": {
+      "34238528": {
+        "pmid": "34238528",
+        "title": "Stroke prevention in patients with arterial hypertension: Recommendations of the Spanish Society of Neurology's Stroke Study Group.",
+        "journal": "Neurologia",
+        "publication_date": "2021-",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34238528/"
+      },
+      "32371623": {
+        "pmid": "32371623",
+        "title": "Hypertension and diabetes mellitus: highlights of a complex relationship.",
+        "journal": "Current opinion in cardiology",
+        "publication_date": "2020-Jul",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32371623/"
+      },
+      "36193727": {
+        "pmid": "36193727",
+        "title": "Blood Pressure Target in Type 2 Diabetes Mellitus.",
+        "journal": "Diabetes & metabolism journal",
+        "publication_date": "2022-Sep",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36193727/"
+      }
+    },
+    "confidence": 0.9512547254562378
+  },
+  {
+    "timestamp": "2025-11-25 07:36:41",
+    "query": "what is cardiology?",
+    "answer": "Based on medical literature review: Cardio-oncology is a unique subspecialty within oncology nursing that focuses on the assessment, identification, and management of cardiotoxicity induced or exacerbated by cancer treatment. Nurses are pivotal to the delivery of evidence-based assessment of and care for individuals who have preexisting cardiac conditions, as well as those for whom cardiac complications are related to the known and emerging toxicities of cancer treatment.. [PMID: 33480880] Heart University [https://www.heartuniversity.org/] is a free educational website providing structured training curricula with knowledge-based testing and access to webinars and conference recordings for practicing and in-training providers of paediatric and congenital cardiac care. To date, there are over 15,000 registered website users from over 140 countries on Heart University, with over 2,000 training modules and/or recorded educational videos. [PMID: 38604745] Despite a perceived increase in attention to gender differences in medicine, a comprehensive assessment of gender equality research, particularly in cardiology, remains underexplored. This observational retrospective study, focusing on documents related to \"Gender Equality\" according to the Sustainable Development Goals, reveals cardiology as a significant area for gender equality research, albeit with a decline in publications post-2018. [PMID: 38705638] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 33480880,
+        "title": "Cardio-Oncology: A Continually Evolving Subspecialty in Oncology Nursing.",
+        "abstract": "Cardio-oncology is a unique subspecialty within oncology nursing that focuses on the assessment, identification, and management of cardiotoxicity induced or exacerbated by cancer treatment. Nurses are pivotal to the delivery of evidence-based assessment of and care for individuals who have preexisting cardiac conditions, as well as those for whom cardiac complications are related to the known and emerging toxicities of cancer treatment.",
+        "specialty": "oncology",
+        "journal": "Clinical journal of oncology nursing",
+        "publication_date": "2021-Feb",
+        "similarity_score": 0.920592188835144
+      },
+      {
+        "rank": 2,
+        "pmid": 38604745,
+        "title": "Cardiology across continents: an interactive, case-based learning series.",
+        "abstract": "Heart University [https://www.heartuniversity.org/] is a free educational website providing structured training curricula with knowledge-based testing and access to webinars and conference recordings for practicing and in-training providers of paediatric and congenital cardiac care. To date, there are over 15,000 registered website users from over 140 countries on Heart University, with over 2,000 training modules and/or recorded educational videos. Heart University has developed an \"asynchronous\" educational lecture series entitled \"Pediatric and Congenital Cardiac Care in Resource-Limited Settings.\" This recorded lecture series is specifically focused on topics relevant to practicing paediatric and/or congenital cardiac care in low-resource settings.A relatively new initiative, \"Cardiology Across Continents,\" supplements the existing educational resources for providers of paediatric and/or congenital cardiac care in low-income countries and lower-middle-income countries by providing an additional live, interactive, case-based forum. Sessions occur every 1-2 months and focus on challenging cases from diagnostic or management perspective with a view to promote collaboration between partnered institutions. \"Cardiology Across Continents\" is an expanding initiative that facilitates learning and collaboration between clinicians across varied practice settings via interactive case discussions. We welcome trainees and providers of paediatric and congenital cardiac care to join the sessions and invite any insight that can enhance learning for clinicians around the world. This manuscript describes \"Cardiology Across Continents\" and discusses the development, history, current status, and future plans of Heart University.",
+        "specialty": "cardiology",
+        "journal": "Cardiology in the young",
+        "publication_date": "2024-Jun",
+        "similarity_score": 0.9182343482971191
+      },
+      {
+        "rank": 3,
+        "pmid": 38705638,
+        "title": "Gender equality in medical research: A cardiology-informed examination.",
+        "abstract": "Despite a perceived increase in attention to gender differences in medicine, a comprehensive assessment of gender equality research, particularly in cardiology, remains underexplored. This observational retrospective study, focusing on documents related to \"Gender Equality\" according to the Sustainable Development Goals, reveals cardiology as a significant area for gender equality research, albeit with a decline in publications post-2018. The analysis highlighted a concentrated effort in the United States and a considerable impact gap between gender-focused and general cardiology research. The global academic community must intensify research into gender disparities, which is essential for achieving professional gender equality and addressing the burden of cardiovascular diseases.",
+        "specialty": "cardiology",
+        "journal": "American heart journal",
+        "publication_date": "2024-Jun",
+        "similarity_score": 0.9174935221672058
+      }
+    ],
+    "citations": {
+      "33480880": {
+        "pmid": "33480880",
+        "title": "Cardio-Oncology: A Continually Evolving Subspecialty in Oncology Nursing.",
+        "journal": "Clinical journal of oncology nursing",
+        "publication_date": "2021-Feb",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33480880/"
+      },
+      "38604745": {
+        "pmid": "38604745",
+        "title": "Cardiology across continents: an interactive, case-based learning series.",
+        "journal": "Cardiology in the young",
+        "publication_date": "2024-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38604745/"
+      },
+      "38705638": {
+        "pmid": "38705638",
+        "title": "Gender equality in medical research: A cardiology-informed examination.",
+        "journal": "American heart journal",
+        "publication_date": "2024-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38705638/"
+      }
+    },
+    "confidence": 0.920592188835144
+  },
+  {
+    "timestamp": "2025-11-25 07:45:54",
+    "query": "A patient who underwent a cardiac transplant is taking cyclosporine for immunosuppression. Which of the following common cardiovascular medications could potentially cause a subtherapeutic level of cyclosporine, and why? ",
+    "answer": "Based on medical literature review: Tacrolimus, an important constituent of the immunosuppressant regimen for renal transplant recipients, can result in posttransplant diabetes mellitus. The adverse effect profile of tacrolimus is yet to be completely understood. [PMID: 36757165] Solid organ transplant recipients on long-term immunosuppressive medication are at increased risk of developing malignancy, and treatment of advanced cancers with angiogenesis inhibitors in this context has not been widely studied. We present a case of recurrent high-grade serous ovarian carcinoma treated with paclitaxel and bevacizumab in the context of prior renal transplantation where the patient responded well to treatment with controlled toxicities, discussing the potential for increased rates of adverse events and drug interactions in this select population.. [PMID: 33499164] Chronic kidney disease (CKD) represents a major public health issue worldwide and entails a high burden of cardiovascular events and mortality. Dyslipidaemia is common in patients with CKD and it is characterized by a highly atherogenic profile with relatively low levels of HDL-cholesterol and high levels of triglyceride and oxidized LDL-cholesterol. [PMID: 32065354] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 36757165,
+        "title": "Adverse Effects of Tacrolimus and Its Associated Risk Factors in Renal Transplant Recipients.",
+        "abstract": "Tacrolimus, an important constituent of the immunosuppressant regimen for renal transplant recipients, can result in posttransplant diabetes mellitus. The adverse effect profile of tacrolimus is yet to be completely understood. The relationship between the blood level of tacrolimus and development of posttransplant diabetes mellitus has not been clearly elucidated in Indian populations. We conducted this study to investigate the frequency of posttransplant diabetes mellitus and other adverse effects of tacrolimus, to enumerate the risk factors associated with posttransplant diabetes mellitus development, and to correlate the blood levels of tacrolimus with its occurrence. This prospective observational study included 77 renal transplant patients receiving tacrolimus. The blood sugar levels (fasting and postprandial) were monitored, and patients were asked regularly about the adverse effects of tacrolimus experienced by them for 6 months posttransplant. Trough levels of tacrolimus in blood were correlated with occurrence of posttransplant diabetes mellitus. Posttransplant diabetes mellitus developed in 62.3% (48/77) of renal transplant recipients on a tacrolimus-based regimen. Other adverse effects observed included tremors, diarrhea, alopecia, cyto- megalovirus infection, headache, biopsy-proven calci- neurin inhibitor nephrotoxicity, peripheral neuropathy, and BK virus infection. Higher tacrolimus trough level at month 1 posttransplant was significantly associated with the development of posttransplant diabetes mellitus (adjusted odds ratio = 1.379; 95% CI, 1.02-1.86). The best cutoff of tacrolimus trough level at month 1 posttransplant to reduce the risk of posttransplant diabetes mellitus was 8.1 ng/mL. There was a 5 times increased risk of developing posttransplant diabetes mellitus when tacrolimus trough level at month 1 posttransplant was >8.1 ng/mL (adjusted odds ratio = 5.4; 95% CI, 1.4-19.9). Posttransplant diabetes mellitus is a common adverse effect of tacrolimus among renal transplant recipients. A trough level >8.1 ng/mL at month 1 posttransplant was an important predictor for posttransplant diabetes mellitus.",
+        "specialty": "diabetes",
+        "journal": "Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation",
+        "publication_date": "2023-Jan",
+        "similarity_score": 0.9374760985374451
+      },
+      {
+        "rank": 2,
+        "pmid": 33499164,
+        "title": "Angiogenesis Inhibitors as Anti-Cancer Therapy Following Renal Transplantation: A Case Report and Review of the Literature.",
+        "abstract": "Solid organ transplant recipients on long-term immunosuppressive medication are at increased risk of developing malignancy, and treatment of advanced cancers with angiogenesis inhibitors in this context has not been widely studied. We present a case of recurrent high-grade serous ovarian carcinoma treated with paclitaxel and bevacizumab in the context of prior renal transplantation where the patient responded well to treatment with controlled toxicities, discussing the potential for increased rates of adverse events and drug interactions in this select population.",
+        "specialty": "oncology",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Jan",
+        "similarity_score": 0.9344922304153442
+      },
+      {
+        "rank": 3,
+        "pmid": 32065354,
+        "title": "Management of dyslipidaemia in patients with chronic kidney disease: a position paper endorsed by the Italian Society of Nephrology.",
+        "abstract": "Chronic kidney disease (CKD) represents a major public health issue worldwide and entails a high burden of cardiovascular events and mortality. Dyslipidaemia is common in patients with CKD and it is characterized by a highly atherogenic profile with relatively low levels of HDL-cholesterol and high levels of triglyceride and oxidized LDL-cholesterol. Overall, current literature indicates that lowering LDL-cholesterol is beneficial for preventing major atherosclerotic events in patients with CKD and in kidney transplant recipients while the evidence is less clear in patients on dialysis. Lipid lowering treatment is recommended in all patients with stage 3 CKD or worse, independently of baseline LDL-cholesterol levels. Statin and ezetimibe are the cornerstones in the management of dyslipidaemia in patients with CKD, however alternative and emerging lipid-lowering therapies may acquire a central role in near future. This position paper endorsed by the Italian Society of Nephrology aims at providing useful information on the topic of dyslipidaemia in CKD and at assisting decision making in the management of these patients.",
+        "specialty": "nephrology",
+        "journal": "Journal of nephrology",
+        "publication_date": "2020-Jun",
+        "similarity_score": 0.9339566230773926
+      }
+    ],
+    "citations": {
+      "36757165": {
+        "pmid": "36757165",
+        "title": "Adverse Effects of Tacrolimus and Its Associated Risk Factors in Renal Transplant Recipients.",
+        "journal": "Experimental and clinical transplantation : official journal of the Middle East Society for Organ Transplantation",
+        "publication_date": "2023-Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36757165/"
+      },
+      "33499164": {
+        "pmid": "33499164",
+        "title": "Angiogenesis Inhibitors as Anti-Cancer Therapy Following Renal Transplantation: A Case Report and Review of the Literature.",
+        "journal": "Current oncology (Toronto, Ont.)",
+        "publication_date": "2021-Jan",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33499164/"
+      },
+      "32065354": {
+        "pmid": "32065354",
+        "title": "Management of dyslipidaemia in patients with chronic kidney disease: a position paper endorsed by the Italian Society of Nephrology.",
+        "journal": "Journal of nephrology",
+        "publication_date": "2020-Jun",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32065354/"
+      }
+    },
+    "confidence": 0.9374760985374451
+  },
+  {
+    "timestamp": "2025-11-25 07:48:18",
+    "query": "what is immunosuppression?",
+    "answer": "Based on medical literature review: The human immune system responds to harmful foreign invaders frequently encountered by the body and employs defense mechanisms to counteract such assaults. Various exogenous and endogenous factors play a prominent role in maintaining the balanced functioning of the immune system, which can result in immune suppression or immune stimulation. [PMID: 37682390] The progressive rise in the number of kidney transplant recipients in the last 2\u00a0decades is reflective of the technological advances in the field. Nephrologists are responsible for providing long-term longitudinal care to these patients. [PMID: 39577891] Interstitial lung disease\u00a0(ILD)\u00a0is a frequent manifestation of connective tissue diseases. They may be revelatory of the disease or occur during follow-up. [PMID: 38707080] \n\nThis summary is based on 3 research papers. See source documents for complete details.",
+    "sources": [
+      {
+        "rank": 1,
+        "pmid": 37682390,
+        "title": "A review of immune modulators and immunotherapy in infectious diseases.",
+        "abstract": "The human immune system responds to harmful foreign invaders frequently encountered by the body and employs defense mechanisms to counteract such assaults. Various exogenous and endogenous factors play a prominent role in maintaining the balanced functioning of the immune system, which can result in immune suppression or immune stimulation. With the advent of different immune-modulatory agents, immune responses can be modulated or regulated to control infections and other health effects. Literature provides evidence on various immunomodulators from different sources and their role in modulating immune responses. Due to the limited efficacy of current drugs and the rise in drug resistance, there is a growing need for new therapies for infectious diseases. In this review, we aim to provide a comprehensive overview of different immune-modulating agents and immune therapies specifically focused on viral infectious diseases.",
+        "specialty": "infectious_diseases",
+        "journal": "Molecular and cellular biochemistry",
+        "publication_date": "2024-Aug",
+        "similarity_score": 0.9145950675010681
+      },
+      {
+        "rank": 2,
+        "pmid": 39577891,
+        "title": "Transplant Nephrology.",
+        "abstract": "The progressive rise in the number of kidney transplant recipients in the last 2\u00a0decades is reflective of the technological advances in the field. Nephrologists are responsible for providing long-term longitudinal care to these patients. It is pertinent that nephrologists understand the various nuances of aspects such as immunosuppression, opportunistic infections, and identification of causes associated with graft dysfunction.",
+        "specialty": "nephrology",
+        "journal": "Advances in kidney disease and health",
+        "publication_date": "2024-Nov",
+        "similarity_score": 0.9084357023239136
+      },
+      {
+        "rank": 3,
+        "pmid": 38707080,
+        "title": "Diffuse Interstitial Lung Disease Revealing Antisynthetase Syndrome.",
+        "abstract": "Interstitial lung disease\u00a0(ILD)\u00a0is a frequent manifestation of connective tissue diseases. They may be revelatory of the disease or occur during follow-up. Antisynthetase syndrome (ASS) is a complex and heterogeneous autoimmune disorder. Antisynthetase antibodies, in particular the anti-Jo-1 antibody, characterize this syndrome. The occurrence and severity of ILD determine the prognosis, which in turn determines therapeutic management. We report the case of a 53-year-old female patient presenting with ILD, revealing the diagnosis of ASS. The evolution was favorable with bolus corticosteroids associated with cyclophosphamide.",
+        "specialty": "pulmonology",
+        "journal": "Cureus",
+        "publication_date": "2024-Apr",
+        "similarity_score": 0.906406044960022
+      }
+    ],
+    "citations": {
+      "37682390": {
+        "pmid": "37682390",
+        "title": "A review of immune modulators and immunotherapy in infectious diseases.",
+        "journal": "Molecular and cellular biochemistry",
+        "publication_date": "2024-Aug",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37682390/"
+      },
+      "38707080": {
+        "pmid": "38707080",
+        "title": "Diffuse Interstitial Lung Disease Revealing Antisynthetase Syndrome.",
+        "journal": "Cureus",
+        "publication_date": "2024-Apr",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38707080/"
+      },
+      "39577891": {
+        "pmid": "39577891",
+        "title": "Transplant Nephrology.",
+        "journal": "Advances in kidney disease and health",
+        "publication_date": "2024-Nov",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39577891/"
+      }
+    },
+    "confidence": 0.9145950675010681
+  }
+]

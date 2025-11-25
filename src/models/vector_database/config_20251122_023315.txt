@@ -1,0 +1,12 @@
+MEDICAL RAG VECTOR DATABASE
+
+
+Model: pritamdeka/S-PubMedBert-MS-MARCO
+Documents: 1744
+Embedding dimension: 768
+Index type: IndexFlatIP
+
+Specialty Distribution:
+  infectious_diseases: 737
+  diabetes: 565
+  cardiology: 442

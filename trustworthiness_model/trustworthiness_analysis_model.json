@@ -1,0 +1,27 @@
+{
+  "total_queries": 40,
+  "trust_scores": {
+    "citation_accuracy": 100.0,
+    "transparency": 97.0,
+    "reproducibility": 100.0,
+    "answer_quality": 97.5,
+    "source_quality": 100.0
+  },
+  "overall_trust_score": 98.9,
+  "trust_level": "EXCELLENT",
+  "verifications": {
+    "Citation Verification": "All PMIDs validated against retrieved sources",
+    "Transparency Check": "Sources, metadata, and scores displayed for all queries",
+    "Reproducibility Test": "All sources traceable via PMID to PubMed",
+    "Quality Assessment": "Answer completeness and citation rate validated",
+    "Source Validation": "Similarity scores and relevance verified"
+  },
+  "details": {
+    "total_citations": 111,
+    "valid_citations": 111,
+    "citation_accuracy": 100.0,
+    "queries_with_sources": 40,
+    "avg_similarity": 0.9217787007490794,
+    "reproducibility_rate": 100.0
+  }
+}
