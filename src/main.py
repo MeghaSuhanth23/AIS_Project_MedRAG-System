@@ -51,10 +51,8 @@ from utils.feedback_metrics import (
 )
 
 
-# --- 4. CONFIGURATION ---
 DEFAULT_API_KEY = "AIzaSyCEYeOGh0ebEOjb3vCk8KOv3XTc55IkUxk"
 
-# --- 5. CUSTOM CSS STYLING ---
 st.markdown("""
 <style>
     .main {
@@ -162,7 +160,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# --- 6. UTILITY FUNCTIONS ---
 
 def load_chat_history():
     """Load chat history from JSON file"""
@@ -197,14 +194,12 @@ def save_chat_history(history):
 
 
 def clean_html_tags(text):
-    """Remove HTML tags from text"""
     import re
     clean_text = re.sub(r'<[^>]+>', '', str(text))
     return clean_text
 
 
 def export_to_pdf(chat_history):
-    """Export chat history to PDF file"""
     from reportlab.lib.pagesizes import letter
     from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
     from reportlab.lib.units import inch
@@ -342,7 +337,6 @@ def export_to_pdf(chat_history):
         return simple_filename
 
 
-# --- 7. SESSION STATE INITIALIZATION ---
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = load_chat_history()
 if 'vector_db' not in st.session_state:
@@ -362,7 +356,6 @@ if 'current_query' not in st.session_state:
 if 'query_timestamp' not in st.session_state:
     st.session_state.query_timestamp = None
 
-# --- 8. MODEL LOADING WITH FALLBACK ---
 def load_models_with_fallback(api_key=None):
     """
     Load vector database and RAG pipeline with fallback handling
@@ -372,17 +365,14 @@ def load_models_with_fallback(api_key=None):
     load_start = time.time()
     
     try:
-        # Check if vector database directory exists
         if not os.path.exists('models/vector_database'):
             st.error("❌ Vector database not found at: models/vector_database/")
             st.info("Make sure your vector database files are in: src/models/vector_database/")
             return None, None, False, False
         
-        # Load vector database from models directory
         vector_db = MedicalVectorDB(vector_db_dir='models/vector_database')
         vector_db.load()
         
-        # Initialize RAG pipeline
         pipeline = MedicalRAGPipeline(
             vector_db=vector_db,
             api_key=key_to_use,
@@ -391,7 +381,7 @@ def load_models_with_fallback(api_key=None):
             similarity_threshold=0.5
         )
         
-        # Track model load time (use observe for Histogram)
+
         load_duration = time.time() - load_start
         model_load_time.observe(load_duration)
         
@@ -449,7 +439,6 @@ with st.sidebar:
     
     st.markdown("---")
     
-    # System initialization
     if 'pipeline' not in st.session_state or st.session_state.pipeline is None:
         
         if not st.session_state.api_key_set:
@@ -467,7 +456,6 @@ with st.sidebar:
                     st.session_state.api_key_set = False
                     st.session_state.using_default_key = False
     
-    # API Key Management
     if not st.session_state.api_key_set:
         st.warning("⚠️ Default API key unavailable")
         st.subheader("API Key Required")
@@ -494,7 +482,6 @@ with st.sidebar:
             else:
                 st.error("Please enter an API key")
     else:
-        # System active
         if st.session_state.using_default_key:
             st.success("✅ System Active (Default Key)")
         else:
@@ -507,12 +494,11 @@ with st.sidebar:
             st.metric("Specialties", st.session_state.vector_db.metadata['specialty'].nunique())
         
 
-        # st.markdown("---")
         st.subheader("💬 Chat History")
         
         if st.session_state.chat_history:
             for i, chat in enumerate(reversed(st.session_state.chat_history[-10:])):
-                # Calculate actual index in the list
+
                 actual_index = len(st.session_state.chat_history) - 1 - i
                 
                 with st.expander(f"{chat['query'][:30]}..."):
@@ -567,7 +553,6 @@ with st.sidebar:
 # MAIN CONTENT
 # ============================================================================
 
-# Header
 st.markdown("""
 <div style='text-align: center; padding: 2rem 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
             border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);'>
@@ -578,12 +563,10 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Check if system is ready
 if not st.session_state.api_key_set:
     st.warning("⚠️ Please enter your API key in the sidebar to begin")
     st.stop()
 
-# Statistics Cards
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
@@ -618,7 +601,6 @@ with col4:
             st.session_state.open_stat_card = 'pubmed'
         st.rerun()
 
-# Expandable stat card information
 if st.session_state.open_stat_card == 'kb':
     st.info("""
     **📚 Knowledge Base**
@@ -684,7 +666,6 @@ elif st.session_state.open_stat_card == 'pubmed':
 st.markdown("<br>", unsafe_allow_html=True)
 st.markdown("---")
 
-# Information expander
 with st.expander("ℹ️ What can I ask about?"):
     st.markdown("""
     ### Supported Medical Specialties:
@@ -700,7 +681,6 @@ with st.expander("ℹ️ What can I ask about?"):
     ⚠️ For best results, ask questions within these medical areas.
     """)
 
-# Query input section
 st.subheader("🔍 Ask a Medical Question")
 
 query = st.text_area(
@@ -710,12 +690,10 @@ query = st.text_area(
     placeholder="e.g., What are the symptoms of type 2 diabetes?"
 )
 
-# Close stat cards when user types
 if query.strip() and st.session_state.get('open_stat_card'):
     st.session_state.open_stat_card = None
     st.rerun()
 
-# Example questions
 with st.expander("💡 Example Questions"):
     col1, col2, col3 = st.columns(3)
     with col1:
@@ -750,42 +728,34 @@ if st.button("🔍 Search Medical Literature", type="primary", use_container_wid
         
         with st.spinner("🔍 Searching medical literature..."):
             try:
-                # Process query
                 result = st.session_state.pipeline.query(query, verbose=False)
                 
-                # Track metrics
                 duration = time.time() - query_start_timestamp
                 query_counter.labels(status='success').inc()
                 query_duration.observe(duration)
                 
-                # Store results
                 st.session_state.current_result = result
                 st.session_state.current_query = query
                 
-                # Calculate confidence and track metrics
                 max_similarity = 0
                 if result['sources']:
                     max_similarity = max(s['similarity_score'] for s in result['sources'])
                     confidence_scores.observe(max_similarity)
                     documents_retrieved.observe(len(result['sources']))
                     
-                    # Track specialties
                     for source in result['sources']:
                         specialty_queries.labels(
                             specialty=source.get('specialty', 'Unknown')
                         ).inc()
                 
-                # Track confidence levels
                 if max_similarity < 0.7:
                     low_confidence_queries.inc()
                 elif max_similarity > 0.85:
                     high_confidence_queries.inc()
                 
-                # Track citations
                 if result['citations']:
                     citations_per_response.observe(len(result['citations']))
                 
-                # Save to chat history immediately after query
                 chat_entry = {
                     'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
                     'query': query,
@@ -838,7 +808,7 @@ if st.button("🔍 Search Medical Literature", type="primary", use_container_wid
                 </div>
                 """, unsafe_allow_html=True)
                 
-                # Response metadata
+
                 col1, col2 = st.columns(2)
                 with col1:
                     st.caption(f"⏱️ Response generated in {duration:.2f}s")
@@ -848,9 +818,6 @@ if st.button("🔍 Search Medical Literature", type="primary", use_container_wid
                 
                 st.markdown("---")
                 
-                # ============================================================
-                # SOURCE DOCUMENTS
-                # ============================================================
                 
                 if result['sources']:
                     st.subheader(f"📚 Source Documents ({len(result['sources'])})")
@@ -877,9 +844,6 @@ if st.button("🔍 Search Medical Literature", type="primary", use_container_wid
                 
                 st.markdown("---")
                 
-                # ============================================================
-                # CITATIONS
-                # ============================================================
                 
                 if result['citations']:
                     st.subheader("📖 Citations & References")
@@ -909,13 +873,11 @@ with feedback_col1:
 with feedback_col2:
     thumbs_down = st.button("👎", key="thumbs_down_button")
 
-# State flags
 if "show_comment_box" not in st.session_state:
     st.session_state.show_comment_box = False
 if "selected_feedback" not in st.session_state:
     st.session_state.selected_feedback = None
 
-# Detect click
 if thumbs_up:
     st.session_state.selected_feedback = "up"
     st.session_state.show_comment_box = True
@@ -926,7 +888,6 @@ if thumbs_down:
     st.session_state.show_comment_box = True
     feedback_counter.labels(feedback_type="negative").inc()
 
-# Comment box
 if st.session_state.show_comment_box:
     st.markdown("#### Optional Comment")
     user_comment = st.text_area("Tell us more (optional)")
@@ -979,9 +940,6 @@ if 'current_result' in st.session_state and st.session_state.current_result:
             st.error(f"❌ PDF export failed: {str(e)}")
 
 
-# ============================================================================
-# FOOTER
-# ============================================================================
 
 st.markdown("---")
 st.caption("⚠️ **Medical Disclaimer:** This system provides information from medical literature for educational purposes only. Always consult healthcare professionals for medical advice.")
