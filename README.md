@@ -1,5 +1,5 @@
 # MED RAG: System for Evidence-Based Clinical Decisions
-x
+
 ## Project Overview
 
 **MED RAG** is an end-to-end Retrieval-Augmented Generation (RAG) system designed to revolutionize access to medical literature. By combining BioBERT embeddings, FAISS vector search, and Google's Gemini AI, the system enables healthcare professionals and researchers to query **5,000+ peer-reviewed medical articles** across **8 specialties** with high accuracy and confidence scoring.
